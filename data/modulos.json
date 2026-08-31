@@ -1,0 +1,181 @@
+[
+  {
+    "id": "dia-1",
+    "titulo": "Mentalidade Varejo 4.0",
+    "subtitulo": "A Revolução do Comércio de Rua",
+    "duracao": "2 horas",
+    "icone": "",
+    "videoUrl": "",
+    "descricao": "Entenda a luta desigual entre o online e o offline, e por que a Tokto é a solução que o lojista de rua precisa.",
+    "conteudo": "O lojista de rua está perdendo a batalha não por falta de competência, mas por falta de tecnologia. Enquanto grandes plataformas sabem tudo sobre o cliente, o lojista trabalha no escuro. A Tokto chega para igualar o jogo.",
+    "objetivos": [
+      "Compreender a desigualdade tecnológica no varejo",
+      "Entender o papel da Tokto como equalizador",
+      "Desenvolver mentalidade de consultor, não vendedor"
+    ],
+    "tarefas": [
+      "Assistir à aula completa",
+      "Gravar vídeo de 3min: 'Por que me juntei à Tokto'",
+      "Refletir sobre 3 dores reais de lojistas que você conhece"
+    ],
+    "recursos": [
+      { "nome": "Manifesto Tokto - Igualdade no Comércio", "tipo": "PDF", "url": "/tokens/manifesto.pdf" },
+      { "nome": "Case: Lojista que faliu vs Lojista que cresceu", "tipo": "PDF", "url": "/tokens/case-sucesso.pdf" }
+    ]
+  },
+  {
+    "id": "dia-2",
+    "titulo": "CupomClic na Veia",
+    "subtitulo": "Do QR Code à Venda em 30 Segundos",
+    "duracao": "2 horas",
+    "icone": "",
+    "videoUrl": "",
+    "descricao": "Domine completamente o CupomClic: desde o cadastro até a conversão final via Pix.",
+    "conteudo": "O CupomClic é a arma secreta da Tokto. Em apenas 30 segundos, um espectador da live escaneia o QR code, clica no cupom, paga via Pix e já está com o desconto na mão. Simples, rápido e eficaz.",
+    "objetivos": [
+      "Dominar o cadastro de produtos no CupomClic",
+      "Entender a jornada completa do cliente",
+      "Criar cupons com alta taxa de conversão"
+    ],
+    "tarefas": [
+      "Criar 3 CupomClics de teste (produtos fictícios)",
+      "Simular compra completa do zero (escanear → pagar → resgatar)",
+      "Cronometrar o tempo total da jornada (meta: 30 segundos)"
+    ],
+    "recursos": [
+      { "nome": "Guia Definitivo do CupomClic", "tipo": "PDF", "url": "/tokens/guia-cupomclic.pdf" },
+      { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/tokens/checklist-cupom.pdf" },
+      { "nome": "Template: Descrição de Produto Persuasiva", "tipo": "PDF", "url": "/tokens/template-descricao.pdf" }
+    ]
+  },
+  {
+    "id": "dia-3",
+    "titulo": "Mestre das Lives",
+    "subtitulo": "Oratória de Elite e Gatilhos Mentais",
+    "duracao": "2 horas",
+    "icone": "🎙️",
+    "videoUrl": "",
+    "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo (Zheng Xiangxiang, Magalu, etc).",
+    "conteudo": "Live commerce não é sobre falar bonito, é sobre criar urgência, autoridade e conexão emocional. Aprenda a estrutura de uma live que vende R$ 50k+ e como aplicar gatilhos mentais de forma natural.",
+    "objetivos": [
+      "Dominar a estrutura de abertura, desenvolvimento e fechamento",
+      "Aplicar gatilhos de escassez, urgência e prova social",
+      "Desenvolver ritmo e energia adequados para live"
+    ],
+    "tarefas": [
+      "Assistir a 15min de live de sucesso (Magalu ou creator top)",
+      "Escrever roteiro de 1 bloco de live (5 minutos)",
+      "Gravar bloco de teste (mesmo sem publicar)"
+    ],
+    "recursos": [
+      { "nome": "Bíblia da Live Commerce Tokto", "tipo": "PDF", "url": "/tokens/biblia-live.pdf" },
+      { "nome": "Template: Roteiro de Live Editável", "tipo": "DOC", "url": "/tokens/roteiro-live.docx" },
+      { "nome": "Script: 10 Frases de Fechamento que Convertem 30%+", "tipo": "PDF", "url": "/tokens/frases-fechamento.pdf" },
+      { "nome": "Checklist: Setup Técnico Perfeito", "tipo": "PDF", "url": "/tokens/checklist-setup.pdf" }
+    ]
+  },
+  {
+    "id": "dia-4",
+    "titulo": "Superpoderes com IA",
+    "subtitulo": "Produtividade 10x com Inteligência Artificial",
+    "duracao": "2 horas",
+    "icone": "",
+    "videoUrl": "",
+    "descricao": "Transforme IA em seu exército pessoal: crie roteiros, artes, vídeos e legendas em minutos, não horas.",
+    "conteudo": "Você não precisa ser designer, copywriter ou roteirista profissional. A IA faz o trabalho pesado em segundos. Aprenda ChatGPT, Canva AI, e ferramentas de automação que multiplicam sua produção de conteúdo.",
+    "objetivos": [
+      "Dominar prompts eficientes no ChatGPT/Claude",
+      "Criar imagens profissionais com Canva AI",
+      "Automatizar criação de conteúdo"
+    ],
+    "tarefas": [
+      "Usar IA para escrever 1 roteiro de live completo",
+      "Transformar 1 foto amadora em profissional com Canva AI",
+      "Gerar 5 legendas de post diferentes com IA"
+    ],
+    "recursos": [
+      { "nome": "Biblioteca de Prompts Tokto (50 prompts)", "tipo": "PDF", "url": "/tokens/prompts-ia.pdf" },
+      { "nome": "Tutorial: Canva AI do Zero ao Pro", "tipo": "VIDEO", "url": "/tokens/tutorial-canva-ai.mp4" },
+      { "nome": "Comparativo: Ferramentas de IA (Gratuitas vs Pagas)", "tipo": "PDF", "url": "/tokens/comparativo-ia.pdf" },
+      { "nome": "Checklist: Fluxo de Produção com IA", "tipo": "PDF", "url": "/tokens/fluxo-ia.pdf" }
+    ]
+  },
+  {
+    "id": "dia-5",
+    "titulo": "WhatsApp & Automação",
+    "subtitulo": "Sua Loja Aberta 24h no Bolso do Cliente",
+    "duracao": "2 horas",
+    "icone": "",
+    "videoUrl": "",
+    "descricao": "Transforme o WhatsApp em uma máquina de vendas automática com vitrine virtual e chatbots inteligentes.",
+    "conteudo": "O WhatsApp não é só para atendimento. É uma loja completa que cabe no bolso do cliente. Aprenda a configurar catálogo, vitrine virtual e automações com ManyChat que vendem enquanto você dorme.",
+    "objetivos": [
+      "Configurar WhatsApp Business profissional",
+      "Criar catálogo de produtos atrativo",
+      "Implementar automações básicas de venda"
+    ],
+    "tarefas": [
+      "Configurar WhatsApp Business com foto e dados completos",
+      "Criar catálogo com pelo menos 5 produtos",
+      "Configurar ManyChat para automação de Direct (comentou → recebeu link)"
+    ],
+    "recursos": [
+      { "nome": "Guia WhatsApp Business para Vendas", "tipo": "PDF", "url": "/tokens/guia-whatsapp.pdf" },
+      { "nome": "Tutorial: ManyChat Passo a Passo", "tipo": "VIDEO", "url": "/tokens/tutorial-manychat.mp4" },
+      { "nome": "Template: Fluxo de Automação Ideal", "tipo": "PDF", "url": "/tokens/fluxo-automacao.pdf" },
+      { "nome": "Script: 10 Mensagens que Convertem", "tipo": "PDF", "url": "/tokens/scripts-whatsapp.pdf" }
+    ]
+  },
+  {
+    "id": "dia-6",
+    "titulo": "Tráfego e Explosão",
+    "subtitulo": "Como Lotar a Sala da Live",
+    "duracao": "2 horas",
+    "icone": "",
+    "videoUrl": "",
+    "descricao": "Estratégias orgânicas e pagas para garantir milhares de espectadores na sua live de vendas.",
+    "conteudo": "De nada adianta ter a melhor live do mundo se ninguém assiste. Aprenda a criar buzz, usar stories estratégicos, reels virais e tráfego pago básico para encher sua sala de live.",
+    "objetivos": [
+      "Criar cronograma de divulgação de 7 dias",
+      "Produzir teasers e conteúdos pré-live",
+      "Entender o básico de Meta Ads para lives"
+    ],
+    "tarefas": [
+      "Criar cronograma de divulgação da primeira live",
+      "Gravar 1 teaser de 30 segundos para stories",
+      "Listar 10 possíveis parceiros para collab"
+    ],
+    "recursos": [
+      { "nome": "Calendário Editorial de Divulgação", "tipo": "PDF", "url": "/tokens/calendario-divulgacao.pdf" },
+      { "nome": "Template: Roteiro de Teaser", "tipo": "PDF", "url": "/tokens/roteiro-teaser.pdf" },
+      { "nome": "Planilha: Cronograma de Postagens Pré-Live", "tipo": "XLSX", "url": "/tokens/cronograma-posts.xlsx" },
+      { "nome": "Checklist: 10 Pontos de Verificação Pré-Live", "tipo": "PDF", "url": "/tokens/checklist-pre-live.pdf" }
+    ]
+  },
+  {
+    "id": "dia-7",
+    "titulo": "Dados que Vendem",
+    "subtitulo": "Do Achismo à Ciência",
+    "duracao": "2 horas",
+    "icone": "📊",
+    "videoUrl": "",
+    "descricao": "Aprenda a ler métricas, analisar resultados e melhorar 10% a cada live usando dados reais.",
+    "conteudo": "Venda não é sorte, é ciência. Aprenda a medir pico de audiência, taxa de conversão, ticket médio e CAC. Use esses dados para tomar decisões e escalar seus resultados consistentemente.",
+    "objetivos": [
+      "Entender métricas essenciais de live commerce",
+      "Ler e interpretar o dashboard da Tokto",
+      "Criar plano de melhoria contínua baseado em dados"
+    ],
+    "tarefas": [
+      "Definir 3 KPIs para acompanhar nas próximas lives",
+      "Criar planilha de acompanhamento simples",
+      "Analisar dados de live de teste (ou simulada)"
+    ],
+    "recursos": [
+      { "nome": "Guia de Métricas para Live Commerce", "tipo": "PDF", "url": "/tokens/guia-metricas.pdf" },
+      { "nome": "Planilha: Dashboard de Acompanhamento", "tipo": "XLSX", "url": "/tokens/dashboard-lives.xlsx" },
+      { "nome": "Template: Relatório Pós-Live", "tipo": "PDF", "url": "/tokens/relatorio-pos-live.pdf" },
+      { "nome": "Checklist: Otimização Contínua", "tipo": "PDF", "url": "/tokens/otimizacao.pdf" }
+    ]
+  }
+]

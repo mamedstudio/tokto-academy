@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #0A0A0A;
+  --color-foreground: #F5F5F5;
+  --color-tokto-orange: #FF6B00;
+  --color-tokto-dark: #0A0A0A;
+  --color-tokto-gray: #1A1A1A;
+  --font-sans: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer components {
+  .btn-primary {
+    background-color: var(--color-tokto-orange);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    font-weight: 700;
+    transition: all 0.2s;
+  }
+
+  .btn-primary:hover {
+    background-color: #E55A00;
+  }
+
+  .card {
+    background-color: var(--color-tokto-gray);
+    border-radius: 0.75rem;
+    padding: 1.5rem;
+    border: 1px solid #333;
+    transition: all 0.2s;
+  }
+
+  .card:hover {
+    border-color: var(--color-tokto-orange);
+  }
+}
