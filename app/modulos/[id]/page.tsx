@@ -14,7 +14,6 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
 
   return (
     <div>
-      {/* Botão Voltar */}
       <a
         href="/"
         className="inline-flex items-center gap-2 text-gray-400 hover:text-[#FF6B00] mb-8 transition-colors"
@@ -22,7 +21,6 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
         ← Voltar para o Dashboard
       </a>
 
-      {/* Header do Módulo */}
       <div className="mb-8">
         <div className="flex items-center gap-3 mb-4">
           <div className="w-14 h-14 bg-[#FF6B00] rounded-lg flex items-center justify-center font-bold text-2xl text-white">
@@ -42,7 +40,6 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
         </div>
       </div>
 
-      {/* Vídeo (placeholder) */}
       {modulo.videoUrl && (
         <div className="card mb-8">
           <h2 className="text-xl font-bold mb-4">🎬 Aula em Vídeo</h2>
@@ -52,13 +49,11 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
         </div>
       )}
 
-      {/* Conteúdo */}
       <div className="card mb-8">
         <h2 className="text-xl font-bold mb-4">📖 Conteúdo da Aula</h2>
-        <p className="text-gray-300 leading-relaxed">{modulo.conteudo}</p>
+        <p className="text-gray-300 leading-relaxed whitespace-pre-line">{modulo.conteudo}</p>
       </div>
 
-      {/* Objetivos */}
       <div className="card mb-8">
         <h2 className="text-xl font-bold mb-4">🎯 Objetivos de Aprendizado</h2>
         <ul className="space-y-2">
@@ -71,29 +66,27 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
         </ul>
       </div>
 
-      {/* Tarefas */}
       <div className="card mb-8">
         <h2 className="text-xl font-bold mb-4">✅ Tarefas Práticas</h2>
         <ul className="space-y-3">
           {modulo.tarefas.map((tarefa: string, index: number) => (
             <li key={index} className="flex items-start gap-3">
-              <input
-                type="checkbox"
-                className="mt-1 w-5 h-5 accent-[#FF6B00]"
-              />
+              <input type="checkbox" className="mt-1 w-5 h-5 accent-[#FF6B00]" />
               <span className="text-gray-300">{tarefa}</span>
             </li>
           ))}
         </ul>
       </div>
 
-      {/* Recursos */}
       <div className="card mb-8">
-        <h2 className="text-xl font-bold mb-4">📚 Recursos e Materiais</h2>
+        <h2 className="text-xl font-bold mb-4"> Recursos e Materiais</h2>
         <div className="grid gap-3">
           {modulo.recursos.map((recurso: any, index: number) => (
-            <div
+            <a
               key={index}
+              href={recurso.url}
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center justify-between p-3 bg-[#0A0A0A] rounded-lg border border-[#333] hover:border-[#FF6B00] transition-colors"
             >
               <div className="flex items-center gap-3">
@@ -108,20 +101,14 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
                   <p className="text-sm text-gray-500">{recurso.tipo}</p>
                 </div>
               </div>
-              <button className="text-[#FF6B00] hover:text-white transition-colors">
-                Baixar ↓
-              </button>
-            </div>
+              <span className="text-[#FF6B00]">Abrir ↗</span>
+            </a>
           ))}
         </div>
       </div>
 
-      {/* Navegação para próximo módulo */}
       {nextModulo && (
-        <a
-          href={`/modulos/${nextModulo.id}`}
-          className="btn-primary inline-flex items-center gap-2"
-        >
+        <a href={`/modulos/${nextModulo.id}`} className="btn-primary inline-flex items-center gap-2">
           Próximo Módulo: {nextModulo.titulo} →
         </a>
       )}
