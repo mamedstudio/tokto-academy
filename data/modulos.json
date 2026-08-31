@@ -20,8 +20,8 @@
       "Enviar o link do vídeo no grupo de WhatsApp"
     ],
     "recursos": [
-      { "nome": "Manifesto Tokto - Igualdade no Comércio", "tipo": "PDF", "url": "/tokens/manifesto.md" },
-      { "nome": "Case: Lojista que faliu vs Lojista que cresceu", "tipo": "PDF", "url": "/tokens/case-sucesso.md" }
+      { "nome": "Manifesto Tokto - Igualdade no Comércio", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/manifesto.md" },
+      { "nome": "Case: Lojista que faliu vs Lojista que cresceu", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/case-sucesso.md" }
     ]
   },
   {
