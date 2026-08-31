@@ -7,7 +7,7 @@
     "icone": "",
     "videoUrl": "",
     "descricao": "Entenda a luta desigual entre o online e o offline, e por que a Tokto é a solução que o lojista de rua precisa.",
-    "conteudo": "O lojista de rua está perdendo a batalha não por falta de competência, mas por falta de tecnologia. Enquanto grandes plataformas sabem tudo sobre o cliente, o lojista trabalha no escuro. A Tokto chega para igualar o jogo.",
+    "conteudo": "O lojista de rua está perdendo a batalha não por falta de competência, mas por falta de tecnologia. Enquanto grandes plataformas sabem tudo sobre o cliente, o lojista trabalha no escuro. A Tokto chega para igualar o jogo.\n\n**A realidade cruel:**\n- Amazon, Mercado Livre e Shopee sabem TUDO sobre quem compra\n- O lojista de rua não sabe nem quem entrou na loja\n- Essa assimetria de informação mata o comércio local\n\n**A revolução Tokto:**\n- CupomClic conecta o lojista ao cliente em 30 segundos\n- Dados reais de vendas, não achismo\n- Tecnologia de ponta acessível a qualquer lojista",
     "objetivos": [
       "Compreender a desigualdade tecnológica no varejo",
       "Entender o papel da Tokto como equalizador",
@@ -16,7 +16,8 @@
     "tarefas": [
       "Assistir à aula completa",
       "Gravar vídeo de 3min: 'Por que me juntei à Tokto'",
-      "Refletir sobre 3 dores reais de lojistas que você conhece"
+      "Refletir sobre 3 dores reais de lojistas que você conhece",
+      "Enviar o link do vídeo no grupo de WhatsApp"
     ],
     "recursos": [
       { "nome": "Manifesto Tokto - Igualdade no Comércio", "tipo": "PDF", "url": "/tokens/manifesto.pdf" },
@@ -53,7 +54,7 @@
     "titulo": "Mestre das Lives",
     "subtitulo": "Oratória de Elite e Gatilhos Mentais",
     "duracao": "2 horas",
-    "icone": "🎙️",
+    "icone": "",
     "videoUrl": "",
     "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo (Zheng Xiangxiang, Magalu, etc).",
     "conteudo": "Live commerce não é sobre falar bonito, é sobre criar urgência, autoridade e conexão emocional. Aprenda a estrutura de uma live que vende R$ 50k+ e como aplicar gatilhos mentais de forma natural.",
@@ -157,7 +158,7 @@
     "titulo": "Dados que Vendem",
     "subtitulo": "Do Achismo à Ciência",
     "duracao": "2 horas",
-    "icone": "📊",
+    "icone": "",
     "videoUrl": "",
     "descricao": "Aprenda a ler métricas, analisar resultados e melhorar 10% a cada live usando dados reais.",
     "conteudo": "Venda não é sorte, é ciência. Aprenda a medir pico de audiência, taxa de conversão, ticket médio e CAC. Use esses dados para tomar decisões e escalar seus resultados consistentemente.",
