@@ -7,17 +7,12 @@
     "icone": "🌍",
     "videoUrl": "",
     "descricao": "Entenda por que gigantes caíram, como o TikTok e a Shopee dominaram a atenção, e por que o Varejo de Rua tem uma arma secreta: o Hiperlocal.",
-    "conteudo": "O VAREJO TRADICIONAL QUEBROU: O caso de grandes varejistas (como a crise da Casas Bahia) não foi culpa da economia. Foi a incapacidade de se adaptar a um mundo orientado por dados. Lojas gigantes, estoque parado e dependência do 'tráfego de pedestres' tornaram-se modelos insustentáveis.\n\nA ASCENSÃO DOS MARKETPLACES DE ATENÇÃO: TikTok Shop e Shopee não vendem apenas produtos. Elas vendem entretenimento, conveniência e, acima de tudo, possuem o algoritmo. Elas sabem o que o cliente quer antes mesmo dele saber. Essa assimetria de informação é a maior ameaça ao lojista de rua.\n\nO PODER DO HIPERLOCAL: O varejo de rua tem uma vantagem que a Amazon nunca terá: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'. O cliente não quer apenas um produto, ele quer pertencimento.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto não veio para competir com os gigantes, mas para dar ao lojista de rua as mesmas ferramentas tecnológicas que eles usam (CupomClic, dados de conversão, automação), democratizando o acesso e nivelando o jogo. Tecnologia não é custo, é o seu novo funcionário 24h.",
+    "conteudo": "O VAREJO TRADICIONAL QUEBROU: O caso de grandes varejistas (como a crise da Casas Bahia) não foi culpa apenas da economia. Foi a incapacidade de se adaptar a um mundo orientado por dados. Lojas gigantes, estoque parado e dependência do 'tráfego de pedestres' tornaram-se modelos insustentáveis.\n\nA ASCENSÃO DOS MARKETPLACES DE ATENÇÃO: TikTok Shop e Shopee não vendem apenas produtos. Elas vendem entretenimento, conveniência e, acima de tudo, possuem o algoritmo. Elas sabem o que o cliente quer antes mesmo dele saber. Essa assimetria de informação é a maior ameaça ao lojista de rua.\n\nO PODER DO HIPERLOCAL: O varejo de rua tem uma vantagem que a Amazon nunca terá: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'. O cliente não quer apenas um produto, ele quer pertencimento.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto não veio para competir com os gigantes, mas para dar ao lojista de rua as mesmas ferramentas tecnológicas que eles usam (CupomClic, dados de conversão, automação), democratizando o acesso e nivelando o jogo. Tecnologia não é custo, é o seu novo funcionário 24h.",
     "objetivos": [
       "Compreender as falhas estruturais do varejo tradicional de grande porte",
       "Entender o conceito de 'Marketplace de Atenção' (TikTok/Shopee)",
       "Identificar a vantagem competitiva do Hiperlocal",
       "Internalizar a Tokto como ferramenta de paridade de armas tecnológicas"
-    ],
-    "tarefas": [
-      "Assistir à aula magna sobre o Cenário do Varejo",
-      "Pesquisar 1 concorrente grande do seu nicho e listar 3 falhas de atendimento que você pode superar no hiperlocal",
-      "Responder ao Quiz de Fixação do Módulo com nota mínima de 70%"
     ],
     "recursos": [
       { "nome": "Case Study: A Queda dos Gigantes e a Ascensão do Hiperlocal", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/case-gigantes.md" },
@@ -72,10 +67,7 @@
     "descricao": "Domine completamente o CupomClic: desde o cadastro até a conversão final via Pix.",
     "conteudo": "O CupomClic é a arma secreta da Tokto. Em apenas 30 segundos, um espectador da live ou cliente na vitrine escaneia o QR code, clica no cupom, paga via Pix e já está com o desconto na mão.",
     "objetivos": ["Dominar o cadastro de produtos", "Entender a jornada do cliente", "Criar cupons de alta conversão"],
-    "tarefas": ["Criar 3 CupomClics de teste", "Simular compra completa", "Cronometrar a jornada (meta: 30s)"],
-    "recursos": [
-      { "nome": "Guia Definitivo do CupomClic", "tipo": "PDF", "url": "/tokens/guia-cupomclic.md" }
-    ]
+    "recursos": [{ "nome": "Guia Definitivo do CupomClic", "tipo": "PDF", "url": "/tokens/guia-cupomclic.md" }]
   },
   {
     "id": "dia-3",
@@ -87,10 +79,7 @@
     "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo.",
     "conteudo": "Live commerce não é sobre falar bonito, é sobre criar urgência, autoridade e conexão emocional.",
     "objetivos": ["Dominar a estrutura de abertura e fechamento", "Aplicar gatilhos mentais", "Desenvolver ritmo para live"],
-    "tarefas": ["Assistir a 15min de live de sucesso", "Escrever roteiro de 1 bloco", "Gravar bloco de teste"],
-    "recursos": [
-      { "nome": "Bíblia da Live Commerce Tokto", "tipo": "PDF", "url": "/tokens/biblia-live.md" }
-    ]
+    "recursos": [{ "nome": "Bíblia da Live Commerce Tokto", "tipo": "PDF", "url": "/tokens/biblia-live.md" }]
   },
   {
     "id": "dia-4",
@@ -102,10 +91,7 @@
     "descricao": "Transforme IA em seu exército pessoal: crie roteiros, artes e legendas em minutos.",
     "conteudo": "Você não precisa ser designer ou copywriter. A IA faz o trabalho pesado em segundos.",
     "objetivos": ["Dominar prompts no ChatGPT", "Criar imagens com Canva AI", "Automatizar conteúdo"],
-    "tarefas": ["Escrever 1 roteiro com IA", "Transformar 1 foto com Canva AI", "Gerar 5 legendas"],
-    "recursos": [
-      { "nome": "Biblioteca de Prompts Tokto", "tipo": "PDF", "url": "/tokens/prompts-ia.md" }
-    ]
+    "recursos": [{ "nome": "Biblioteca de Prompts Tokto", "tipo": "PDF", "url": "/tokens/prompts-ia.md" }]
   },
   {
     "id": "dia-5",
@@ -117,10 +103,7 @@
     "descricao": "Transforme o WhatsApp em uma máquina de vendas automática com vitrine virtual.",
     "conteudo": "O WhatsApp é uma loja completa. Aprenda a configurar catálogo e automações que vendem enquanto você dorme.",
     "objetivos": ["Configurar WhatsApp Business", "Criar catálogo atrativo", "Implementar automações básicas"],
-    "tarefas": ["Configurar perfil Business", "Criar catálogo com 5 produtos", "Configurar ManyChat básico"],
-    "recursos": [
-      { "nome": "Guia WhatsApp Business para Vendas", "tipo": "PDF", "url": "/tokens/guia-whatsapp.md" }
-    ]
+    "recursos": [{ "nome": "Guia WhatsApp Business para Vendas", "tipo": "PDF", "url": "/tokens/guia-whatsapp.md" }]
   },
   {
     "id": "dia-6",
@@ -132,10 +115,7 @@
     "descricao": "Estratégias orgânicas e pagas para garantir espectadores na sua live de vendas.",
     "conteudo": "Aprenda a criar buzz, usar stories estratégicos e tráfego pago básico para encher sua sala.",
     "objetivos": ["Criar cronograma de 7 dias", "Produzir teasers", "Entender Meta Ads para lives"],
-    "tarefas": ["Criar cronograma de divulgação", "Gravar 1 teaser", "Listar 10 parceiros para collab"],
-    "recursos": [
-      { "nome": "Calendário Editorial de Divulgação", "tipo": "PDF", "url": "/tokens/calendario-divulgacao.md" }
-    ]
+    "recursos": [{ "nome": "Calendário Editorial de Divulgação", "tipo": "PDF", "url": "/tokens/calendario-divulgacao.md" }]
   },
   {
     "id": "dia-7",
@@ -147,9 +127,6 @@
     "descricao": "Aprenda a ler métricas, analisar resultados e melhorar 10% a cada live usando dados reais.",
     "conteudo": "Venda é ciência. Aprenda a medir pico de audiência, taxa de conversão e CAC para escalar resultados.",
     "objetivos": ["Entender métricas essenciais", "Ler o dashboard da Tokto", "Criar plano de melhoria"],
-    "tarefas": ["Definir 3 KPIs", "Criar planilha de acompanhamento", "Analisar dados de live de teste"],
-    "recursos": [
-      { "nome": "Guia de Métricas para Live Commerce", "tipo": "PDF", "url": "/tokens/guia-metricas.md" }
-    ]
+    "recursos": [{ "nome": "Guia de Métricas para Live Commerce", "tipo": "PDF", "url": "/tokens/guia-metricas.md" }]
   }
 ]
