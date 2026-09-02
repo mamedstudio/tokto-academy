@@ -14,10 +14,7 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
 
   return (
     <div>
-      <a
-        href="/"
-        className="inline-flex items-center gap-2 text-gray-400 hover:text-[#FF6B00] mb-8 transition-colors"
-      >
+      <a href="/" className="inline-flex items-center gap-2 text-gray-400 hover:text-[#FF6B00] mb-8 transition-colors">
         ← Voltar para o Dashboard
       </a>
 
@@ -35,7 +32,6 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
         <div className="flex gap-4 mt-4 text-sm text-gray-500">
           <span>⏱️ {modulo.duracao}</span>
           <span>🎯 {modulo.objetivos.length} objetivos</span>
-          <span>✅ {modulo.tarefas.length} tarefas</span>
           <span>📚 {modulo.recursos.length} recursos</span>
         </div>
       </div>
@@ -68,19 +64,6 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
         </ul>
       </div>
 
-      <div className="card mb-8">
-        <h2 className="text-xl font-bold mb-4">✅ Tarefas Práticas</h2>
-        <ul className="space-y-3">
-          {modulo.tarefas.map((tarefa: string, index: number) => (
-            <li key={index} className="flex items-start gap-3">
-              <input type="checkbox" className="mt-1 w-5 h-5 accent-[#FF6B00] rounded border-gray-600 bg-[#0A0A0A]" />
-              <span className="text-gray-300">{tarefa}</span>
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      {/* NOVA SEÇÃO: QUIZ DE FIXAÇÃO */}
       {modulo.quiz && modulo.quiz.length > 0 && (
         <div className="card mb-8 border-l-4 border-l-[#FF6B00]">
           <h2 className="text-xl font-bold mb-6 flex items-center gap-2">
@@ -90,17 +73,11 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
           <div className="space-y-8">
             {modulo.quiz.map((q: any, qIndex: number) => (
               <div key={qIndex} className="bg-[#0A0A0A] p-5 rounded-lg border border-[#333]">
-                <p className="font-semibold text-gray-200 mb-4">
-                  {qIndex + 1}. {q.pergunta}
-                </p>
+                <p className="font-semibold text-gray-200 mb-4">{qIndex + 1}. {q.pergunta}</p>
                 <div className="space-y-3">
                   {q.opcoes.map((opcao: string, oIndex: number) => (
                     <label key={oIndex} className="flex items-center gap-3 p-3 rounded-lg border border-[#333] hover:border-[#FF6B00] hover:bg-[#1A1A1A] cursor-pointer transition-all group">
-                      <input 
-                        type="radio" 
-                        name={`quiz-${qIndex}`} 
-                        className="w-4 h-4 accent-[#FF6B00]" 
-                      />
+                      <input type="radio" name={`quiz-${qIndex}`} className="w-4 h-4 accent-[#FF6B00]" />
                       <span className="text-gray-300 group-hover:text-white">{opcao}</span>
                     </label>
                   ))}
@@ -117,7 +94,7 @@ export default async function ModuloPage({ params }: { params: Promise<{ id: str
       )}
 
       <div className="card mb-8">
-        <h2 className="text-xl font-bold mb-4">📚 Recursos e Materiais</h2>
+        <h2 className="text-xl font-bold mb-4">📚 Recursos e Materiais de Apoio</h2>
         <div className="grid gap-3">
           {modulo.recursos.map((recurso: any, index: number) => (
             <a
