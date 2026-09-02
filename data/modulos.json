@@ -2,26 +2,27 @@
   {
     "id": "dia-1",
     "titulo": "Mentalidade Varejo 4.0",
-    "subtitulo": "A Revolução do Comércio de Rua",
+    "subtitulo": "Pare de depender do movimento da porta",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "🧠",
     "videoUrl": "",
-    "descricao": "Entenda a luta desigual entre o online e o offline, e por que a Tokto é a solução que o lojista de rua precisa.",
-    "conteudo": "O lojista de rua está perdendo a batalha não por falta de competência, mas por falta de tecnologia. Enquanto grandes plataformas sabem tudo sobre o cliente, o lojista trabalha no escuro. A Tokto chega para igualar o jogo.\n\n**A realidade cruel:**\n- Amazon, Mercado Livre e Shopee sabem TUDO sobre quem compra\n- O lojista de rua não sabe nem quem entrou na loja\n- Essa assimetria de informação mata o comércio local\n\n**A revolução Tokto:**\n- CupomClic conecta o lojista ao cliente em 30 segundos\n- Dados reais de vendas, não achismo\n- Tecnologia de ponta acessível a qualquer lojista",
+    "descricao": "A virada de chave definitiva: como transformar sua loja física em uma máquina de vendas 24h usando a psicologia do Varejo 4.0.",
+    "conteudo": "A GRANDE MENTIRA QUE TE CONTARAM:\nDisseram que o comércio de rua está morrendo por culpa da economia, do e-commerce ou da pandemia. Mentira. O comércio de rua não está morrendo, ele está sendo substituído por quem se adapta.\n\nO lojista tradicional espera o cliente entrar na loja. O lojista 4.0 vai até o cliente, mesmo com a porta fechada.\n\nA ASSIMETRIA MORTAL:\nEnquanto a Amazon sabe o que o cliente pesquisou, quanto tempo ele ficou na página e o que ele comprou, o lojista de rua não sabe nem o nome de quem passou na frente da vitrine. Essa falta de dados é o que mata o negócio.\n\nA SOLUÇÃO TOKTO:\nO CupomClic não é apenas um 'QR Code'. É a ponte entre o físico e o digital. É a ferramenta que permite que sua vitrine venda às 3 da manhã de um domingo. É o fim da dependência do 'movimento da porta'.\n\nNeste módulo, você não vai apenas aprender teoria. Você vai internalizar que tecnologia não é um custo, é o seu maior funcionário, que trabalha 24h sem reclamar, sem férias e sem comissão.",
     "objetivos": [
-      "Compreender a desigualdade tecnológica no varejo",
-      "Entender o papel da Tokto como equalizador",
-      "Desenvolver mentalidade de consultor, não vendedor"
+      "Identificar os 3 maiores gargalos de vendas da sua loja atual",
+      "Compreender a diferença entre 'atender' e 'conduzir' uma venda",
+      "Internalizar a mentalidade de que sua loja deve vender 24h por dia"
     ],
     "tarefas": [
-      "Assistir à aula completa",
-      "Gravar vídeo de 3min: 'Por que me juntei à Tokto'",
-      "Refletir sobre 3 dores reais de lojistas que você conhece",
-      "Enviar o link do vídeo no grupo de WhatsApp"
+      "Assistir à aula de alinhamento mental (20 min)",
+      "Mapear 3 dores reais dos seus clientes atuais",
+      "PRÁTICA OBRIGATÓRIA: Gravar o 'Vídeo 1: O QR Code que Vende Enquanto Você Dorme' (usando o roteiro fornecido nos recursos)",
+      "Postar o vídeo no Instagram e marcar a @tokto"
     ],
     "recursos": [
-      { "nome": "Manifesto Tokto - Igualdade no Comércio", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/manifesto.md" },
-      { "nome": "Case: Lojista que faliu vs Lojista que cresceu", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/case-sucesso.md" }
+      { "nome": "📘 Manual de Comunicação do Instagram (20 Dicas de Ouro)", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/manual-comunicacao.md" },
+      { "nome": "🎬 Roteiro Pronto: Vídeo 1 (O QR Code que Vende)", "tipo": "DOC", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/roteiro-video-1.md" },
+      { "nome": "📊 Checklist: Minha Loja Está Pronta para o 4.0?", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/checklist-dia1.md" }
     ]
   },
   {
@@ -29,10 +30,10 @@
     "titulo": "CupomClic na Veia",
     "subtitulo": "Do QR Code à Venda em 30 Segundos",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "⚡",
     "videoUrl": "",
     "descricao": "Domine completamente o CupomClic: desde o cadastro até a conversão final via Pix.",
-    "conteudo": "O CupomClic é a arma secreta da Tokto. Em apenas 30 segundos, um espectador da live escaneia o QR code, clica no cupom, paga via Pix e já está com o desconto na mão. Simples, rápido e eficaz.",
+    "conteudo": "O CupomClic é a arma secreta da Tokto. Em apenas 30 segundos, um espectador da live ou cliente na vitrine escaneia o QR code, clica no cupom, paga via Pix e já está com o desconto na mão. Simples, rápido e eficaz.",
     "objetivos": [
       "Dominar o cadastro de produtos no CupomClic",
       "Entender a jornada completa do cliente",
@@ -45,8 +46,7 @@
     ],
     "recursos": [
       { "nome": "Guia Definitivo do CupomClic", "tipo": "PDF", "url": "/tokens/guia-cupomclic.md" },
-      { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/tokens/checklist-cupom.md" },
-      { "nome": "Template: Descrição de Produto Persuasiva", "tipo": "PDF", "url": "/tokens/template-descricao.md" }
+      { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/tokens/checklist-cupom.md" }
     ]
   },
   {
@@ -54,9 +54,9 @@
     "titulo": "Mestre das Lives",
     "subtitulo": "Oratória de Elite e Gatilhos Mentais",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "🎙️",
     "videoUrl": "",
-    "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo (Zheng Xiangxiang, Magalu, etc).",
+    "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo.",
     "conteudo": "Live commerce não é sobre falar bonito, é sobre criar urgência, autoridade e conexão emocional. Aprenda a estrutura de uma live que vende R$ 50k+ e como aplicar gatilhos mentais de forma natural.",
     "objetivos": [
       "Dominar a estrutura de abertura, desenvolvimento e fechamento",
@@ -64,15 +64,13 @@
       "Desenvolver ritmo e energia adequados para live"
     ],
     "tarefas": [
-      "Assistir a 15min de live de sucesso (Magalu ou creator top)",
+      "Assistir a 15min de live de sucesso",
       "Escrever roteiro de 1 bloco de live (5 minutos)",
       "Gravar bloco de teste (mesmo sem publicar)"
     ],
     "recursos": [
       { "nome": "Bíblia da Live Commerce Tokto", "tipo": "PDF", "url": "/tokens/biblia-live.md" },
-      { "nome": "Template: Roteiro de Live Editável", "tipo": "DOC", "url": "/tokens/roteiro-live.md" },
-      { "nome": "Script: 10 Frases de Fechamento que Convertem 30%+", "tipo": "PDF", "url": "/tokens/frases-fechamento.md" },
-      { "nome": "Checklist: Setup Técnico Perfeito", "tipo": "PDF", "url": "/tokens/checklist-setup.md" }
+      { "nome": "Template: Roteiro de Live Editável", "tipo": "DOC", "url": "/tokens/roteiro-live.md" }
     ]
   },
   {
@@ -80,7 +78,7 @@
     "titulo": "Superpoderes com IA",
     "subtitulo": "Produtividade 10x com Inteligência Artificial",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "🤖",
     "videoUrl": "",
     "descricao": "Transforme IA em seu exército pessoal: crie roteiros, artes, vídeos e legendas em minutos, não horas.",
     "conteudo": "Você não precisa ser designer, copywriter ou roteirista profissional. A IA faz o trabalho pesado em segundos. Aprenda ChatGPT, Canva AI, e ferramentas de automação que multiplicam sua produção de conteúdo.",
@@ -96,9 +94,7 @@
     ],
     "recursos": [
       { "nome": "Biblioteca de Prompts Tokto (50 prompts)", "tipo": "PDF", "url": "/tokens/prompts-ia.md" },
-      { "nome": "Tutorial: Canva AI do Zero ao Pro", "tipo": "VIDEO", "url": "/tokens/tutorial-canva-ai.md" },
-      { "nome": "Comparativo: Ferramentas de IA (Gratuitas vs Pagas)", "tipo": "PDF", "url": "/tokens/comparativo-ia.md" },
-      { "nome": "Checklist: Fluxo de Produção com IA", "tipo": "PDF", "url": "/tokens/fluxo-ia.md" }
+      { "nome": "Tutorial: Canva AI do Zero ao Pro", "tipo": "VIDEO", "url": "/tokens/tutorial-canva-ai.md" }
     ]
   },
   {
@@ -106,7 +102,7 @@
     "titulo": "WhatsApp & Automação",
     "subtitulo": "Sua Loja Aberta 24h no Bolso do Cliente",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "💬",
     "videoUrl": "",
     "descricao": "Transforme o WhatsApp em uma máquina de vendas automática com vitrine virtual e chatbots inteligentes.",
     "conteudo": "O WhatsApp não é só para atendimento. É uma loja completa que cabe no bolso do cliente. Aprenda a configurar catálogo, vitrine virtual e automações com ManyChat que vendem enquanto você dorme.",
@@ -118,13 +114,11 @@
     "tarefas": [
       "Configurar WhatsApp Business com foto e dados completos",
       "Criar catálogo com pelo menos 5 produtos",
-      "Configurar ManyChat para automação de Direct (comentou → recebeu link)"
+      "Configurar ManyChat para automação de Direct"
     ],
     "recursos": [
       { "nome": "Guia WhatsApp Business para Vendas", "tipo": "PDF", "url": "/tokens/guia-whatsapp.md" },
-      { "nome": "Tutorial: ManyChat Passo a Passo", "tipo": "VIDEO", "url": "/tokens/tutorial-manychat.md" },
-      { "nome": "Template: Fluxo de Automação Ideal", "tipo": "PDF", "url": "/tokens/fluxo-automacao.md" },
-      { "nome": "Script: 10 Mensagens que Convertem", "tipo": "PDF", "url": "/tokens/scripts-whatsapp.md" }
+      { "nome": "Tutorial: ManyChat Passo a Passo", "tipo": "VIDEO", "url": "/tokens/tutorial-manychat.md" }
     ]
   },
   {
@@ -132,7 +126,7 @@
     "titulo": "Tráfego e Explosão",
     "subtitulo": "Como Lotar a Sala da Live",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "🚀",
     "videoUrl": "",
     "descricao": "Estratégias orgânicas e pagas para garantir milhares de espectadores na sua live de vendas.",
     "conteudo": "De nada adianta ter a melhor live do mundo se ninguém assiste. Aprenda a criar buzz, usar stories estratégicos, reels virais e tráfego pago básico para encher sua sala de live.",
@@ -148,9 +142,7 @@
     ],
     "recursos": [
       { "nome": "Calendário Editorial de Divulgação", "tipo": "PDF", "url": "/tokens/calendario-divulgacao.md" },
-      { "nome": "Template: Roteiro de Teaser", "tipo": "PDF", "url": "/tokens/roteiro-teaser.md" },
-      { "nome": "Planilha: Cronograma de Postagens Pré-Live", "tipo": "XLSX", "url": "/tokens/cronograma-posts.md" },
-      { "nome": "Checklist: 10 Pontos de Verificação Pré-Live", "tipo": "PDF", "url": "/tokens/checklist-pre-live.md" }
+      { "nome": "Template: Roteiro de Teaser", "tipo": "PDF", "url": "/tokens/roteiro-teaser.md" }
     ]
   },
   {
@@ -158,7 +150,7 @@
     "titulo": "Dados que Vendem",
     "subtitulo": "Do Achismo à Ciência",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "📊",
     "videoUrl": "",
     "descricao": "Aprenda a ler métricas, analisar resultados e melhorar 10% a cada live usando dados reais.",
     "conteudo": "Venda não é sorte, é ciência. Aprenda a medir pico de audiência, taxa de conversão, ticket médio e CAC. Use esses dados para tomar decisões e escalar seus resultados consistentemente.",
@@ -170,13 +162,11 @@
     "tarefas": [
       "Definir 3 KPIs para acompanhar nas próximas lives",
       "Criar planilha de acompanhamento simples",
-      "Analisar dados de live de teste (ou simulada)"
+      "Analisar dados de live de teste"
     ],
     "recursos": [
       { "nome": "Guia de Métricas para Live Commerce", "tipo": "PDF", "url": "/tokens/guia-metricas.md" },
-      { "nome": "Planilha: Dashboard de Acompanhamento", "tipo": "XLSX", "url": "/tokens/dashboard-lives.md" },
-      { "nome": "Template: Relatório Pós-Live", "tipo": "PDF", "url": "/tokens/relatorio-pos-live.md" },
-      { "nome": "Checklist: Otimização Contínua", "tipo": "PDF", "url": "/tokens/otimizacao.md" }
+      { "nome": "Planilha: Dashboard de Acompanhamento", "tipo": "XLSX", "url": "/tokens/dashboard-lives.md" }
     ]
   }
 ]
