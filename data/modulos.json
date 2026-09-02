@@ -2,38 +2,39 @@
   {
     "id": "dia-1",
     "titulo": "O Novo Cenário do Varejo",
-    "subtitulo": "Do Colapso Tradicional à Paridade de Armas Hiperlocal",
+    "subtitulo": "Do Colapso das Gigantes à Validação do Live Shopping",
     "duracao": "2 horas",
-    "icone": "🌍",
+    "icone": "",
     "videoUrl": "",
-    "descricao": "Entenda por que gigantes caíram, como o TikTok e a Shopee dominaram a atenção, e por que o Varejo de Rua tem uma arma secreta: o Hiperlocal.",
-    "conteudo": "O VAREJO TRADICIONAL QUEBROU: O caso de grandes varejistas (como a crise da Casas Bahia) não foi culpa apenas da economia. Foi a incapacidade de se adaptar a um mundo orientado por dados. Lojas gigantes, estoque parado e dependência do 'tráfego de pedestres' tornaram-se modelos insustentáveis.\n\nA ASCENSÃO DOS MARKETPLACES DE ATENÇÃO: TikTok Shop e Shopee não vendem apenas produtos. Elas vendem entretenimento, conveniência e, acima de tudo, possuem o algoritmo. Elas sabem o que o cliente quer antes mesmo dele saber. Essa assimetria de informação é a maior ameaça ao lojista de rua.\n\nO PODER DO HIPERLOCAL: O varejo de rua tem uma vantagem que a Amazon nunca terá: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'. O cliente não quer apenas um produto, ele quer pertencimento.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto não veio para competir com os gigantes, mas para dar ao lojista de rua as mesmas ferramentas tecnológicas que eles usam (CupomClic, dados de conversão, automação), democratizando o acesso e nivelando o jogo. Tecnologia não é custo, é o seu novo funcionário 24h.",
+    "descricao": "Entenda por que a Magalu se rendeu ao Mercado Livre, por que o live shopping é o futuro, e como o Varejo de Rua tem uma vantagem injusta: o Hiperlocal.",
+    "conteudo": "O COLAPSO DAS GIGANTES: A notícia recente de que a Magalu fez parceria com o Mercado Livre não é uma estratégia de crescimento - é sobrevivência. Se a 'rainha do digital' brasileiro precisou se render ao maior marketplace da América Latina, isso é um sinal claro: o modelo tradicional de marketplace está em crise. Casas Bahia, Americanas, todas sangrando.\n\nA VALIDAÇÃO DO LIVE SHOPPING: Enquanto isso, o Mercado Livre acaba de lançar o Mercado Live - transformando seu app em canal de compras ao vivo. Isso não é 'modinha'. É a confirmação de que entretenimento + conveniência é o futuro do varejo. Se o maior player da AL está investindo em live shopping, você precisa entender que está na crista da onda certa.\n\nA ASSIMETRIA MORTAL: Enquanto as gigantes sabem o que o cliente clicou, quanto tempo ficou na página e o que comprou, o lojista de rua não sabe nem quem entrou na loja hoje. Essa falta de dados é o que mata o negócio.\n\nO PODER DO HIPERLOCAL: Mas você tem algo que eles nunca terão: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'. O cliente não quer apenas um produto, ele quer pertencimento.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto não veio para competir com os gigantes, mas para dar ao lojista de rua as mesmas ferramentas tecnológicas que eles usam (CupomClic, Live Shopping, dados de conversão), democratizando o acesso e nivelando o jogo. Enquanto as gigantes se unem para sobreviver, você terá suas próprias armas.",
     "objetivos": [
-      "Compreender as falhas estruturais do varejo tradicional de grande porte",
-      "Entender o conceito de 'Marketplace de Atenção' (TikTok/Shopee)",
-      "Identificar a vantagem competitiva do Hiperlocal",
+      "Compreender o colapso do modelo tradicional de marketplace (case Magalu + Mercado Livre)",
+      "Entender a validação do Live Shopping como estratégia definitiva de vendas",
+      "Identificar a vantagem competitiva do Hiperlocal frente aos gigantes",
       "Internalizar a Tokto como ferramenta de paridade de armas tecnológicas"
     ],
     "recursos": [
-      { "nome": "Case Study: A Queda dos Gigantes e a Ascensão do Hiperlocal", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/case-gigantes.md" },
+      { "nome": "Notícia: Magalu faz parceria com Mercado Livre", "tipo": "LINK", "url": "https://braziljournal.com/magalu-faz-parceria-com-o-mercado-livre-para-vender-seus-produtos/" },
+      { "nome": "Notícia: Mercado Livre lança Live Shopping", "tipo": "LINK", "url": "https://exame.com/marketing/mercado-livre-lanca-live-shopping-e-transforma-app-em-canal-de-compras-ao-vivo/" },
       { "nome": "Artigo: O que é Paridade de Armas no Varejo 4.0", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/paridade-armas.md" }
     ],
     "quiz": [
       {
-        "pergunta": "Qual foi a principal causa da crise de grandes varejistas tradicionais, segundo o módulo?",
+        "pergunta": "Por que a parceria entre Magalu e Mercado Livre é um sinal de alerta para o varejo?",
         "opcoes": [
-          "Apenas a crise econômica e inflação",
-          "A incapacidade de se adaptar a um modelo orientado por dados e a dependência excessiva do tráfego físico",
-          "O excesso de tecnologia nas lojas físicas"
+          "Porque mostra que até as gigantes estão em crise e precisam de alianças para sobreviver",
+          "Porque o Mercado Livre está comprando todas as lojas",
+          "Porque a Magalu está crescendo demais"
         ],
-        "respostaCorreta": 1
+        "respostaCorreta": 0
       },
       {
-        "pergunta": "O que caracteriza um 'Marketplace de Atenção' como o TikTok Shop ou Shopee?",
+        "pergunta": "O que o lançamento do Mercado Live (live shopping do Mercado Livre) valida?",
         "opcoes": [
-          "Vender apenas produtos de luxo",
-          "Combinar entretenimento, conveniência e algoritmos que antecipam o desejo do consumidor",
-          "Ter apenas lojas físicas em shoppings centers"
+          "Que live shopping é apenas uma modinha passageira",
+          "Que entretenimento + conveniência é o futuro do varejo e uma estratégia confirmada pelos maiores players",
+          "Que apenas marketplaces gigantes podem fazer lives"
         ],
         "respostaCorreta": 1
       },
@@ -50,7 +51,7 @@
         "pergunta": "Qual é o conceito de 'Paridade de Armas' defendido pela Tokto?",
         "opcoes": [
           "O lojista deve tentar copiar exatamente o que a Amazon faz",
-          "Democratizar o acesso à tecnologia de ponta (como CupomClic e dados), nivelando o jogo para o lojista de rua",
+          "Democratizar o acesso à tecnologia de ponta (Live Shopping, CupomClic e dados), nivelando o jogo para o lojista de rua",
           "Proibir o uso de marketplaces na cidade"
         ],
         "respostaCorreta": 1
@@ -74,7 +75,7 @@
     "titulo": "Mestre das Lives",
     "subtitulo": "Oratória de Elite e Gatilhos Mentais",
     "duracao": "2 horas",
-    "icone": "🎙️",
+    "icone": "️",
     "videoUrl": "",
     "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo.",
     "conteudo": "Live commerce não é sobre falar bonito, é sobre criar urgência, autoridade e conexão emocional.",
