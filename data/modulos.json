@@ -4,7 +4,7 @@
     "titulo": "O Novo Cenário do Varejo",
     "subtitulo": "Do Colapso das Gigantes à Validação do Live Shopping",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "🌍",
     "videoUrl": "",
     "descricao": "Entenda por que a Magalu se rendeu ao Mercado Livre, por que o live shopping é o futuro, e como o Varejo de Rua tem uma vantagem injusta: o Hiperlocal.",
     "conteudo": "O COLAPSO DAS GIGANTES: A notícia recente de que a Magalu fez parceria com o Mercado Livre não é uma estratégia de crescimento - é sobrevivência. Se a 'rainha do digital' brasileiro precisou se render ao maior marketplace da América Latina, isso é um sinal claro: o modelo tradicional de marketplace está em crise. Casas Bahia, Americanas, todas sangrando.\n\nA VALIDAÇÃO DO LIVE SHOPPING: Enquanto isso, o Mercado Livre acaba de lançar o Mercado Live - transformando seu app em canal de compras ao vivo. Isso não é 'modinha'. É a confirmação de que entretenimento + conveniência é o futuro do varejo. Se o maior player da AL está investindo em live shopping, você precisa entender que está na crista da onda certa.\n\nA ASSIMETRIA MORTAL: Enquanto as gigantes sabem o que o cliente clicou, quanto tempo ficou na página e o que comprou, o lojista de rua não sabe nem quem entrou na loja hoje. Essa falta de dados é o que mata o negócio.\n\nO PODER DO HIPERLOCAL: Mas você tem algo que eles nunca terão: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'. O cliente não quer apenas um produto, ele quer pertencimento.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto não veio para competir com os gigantes, mas para dar ao lojista de rua as mesmas ferramentas tecnológicas que eles usam (CupomClic, Live Shopping, dados de conversão), democratizando o acesso e nivelando o jogo. Enquanto as gigantes se unem para sobreviver, você terá suas próprias armas.",
@@ -61,21 +61,79 @@
   {
     "id": "dia-2",
     "titulo": "CupomClic na Veia",
-    "subtitulo": "Do QR Code à Venda em 30 Segundos",
+    "subtitulo": "Da Evolução da Tokto à Prática dos 30 Segundos",
     "duracao": "2 horas",
     "icone": "⚡",
     "videoUrl": "",
-    "descricao": "Domine completamente o CupomClic: desde o cadastro até a conversão final via Pix.",
-    "conteudo": "O CupomClic é a arma secreta da Tokto. Em apenas 30 segundos, um espectador da live ou cliente na vitrine escaneia o QR code, clica no cupom, paga via Pix e já está com o desconto na mão.",
-    "objetivos": ["Dominar o cadastro de produtos", "Entender a jornada do cliente", "Criar cupons de alta conversão"],
-    "recursos": [{ "nome": "Guia Definitivo do CupomClic", "tipo": "PDF", "url": "/tokens/guia-cupomclic.md" }]
+    "descricao": "Conheça a jornada de 11 anos que nos trouxe até aqui e domine o CupomClic na prática: do cadastro à primeira venda em 30 segundos.",
+    "conteudo": "DE 2015 A 2026 - A NOSSA HISTÓRIA:\n\n2015 - A Gênese na TV: Nascemos como programa de TV inovador. O lojista trocava lucro por espaço comercial, garantindo que o valor total da compra fosse repassado a ele. Era o início da valorização do varejo físico através da mídia tradicional.\n\n2020 - A Revolução Phygital: A descoberta do digital em um SAAS nos transformou no aplicativo TOKTO. Entramos na era Phygital, exigindo do lojista um desconto agressivo. Fizemos nosso MVP com 10 mil aplicativos baixados e 100 lojas parceiras.\n\n2023 - Franquia e BOPIS: Com plataforma própria, adotamos o BOPIS (compra online, busca na loja) para trazer de volta o consumidor à rua. Entendemos que o desconto é apenas um chamariz e nos posicionamos como a salvação do varejo físico no Brasil.\n\n2026 - O Ecossistema de Inteligência: Demos o passo definitivo com a transformação em IATokto e CupomClic. Unimos nosso agente de inteligência artificial com a plataforma de fidelidade inteligente, criando um ecossistema com links clicáveis para Instagram e WhatsApp.\n\nPOR QUE CUPOMCLIC?\nDepois de 11 anos aprendendo o que funciona e o que não funciona, chegamos à conclusão: o cliente quer rapidez. CupomClic elimina TODAS as barreiras entre o desejo e a compra. Em 30 segundos, o cliente escaneia o QR Code, clica no cupom, paga via Pix e já está com o desconto na mão. Sem app, sem cadastro, sem burocracia.\n\nCOMO FUNCIONA NA PRÁTICA:\n1. Cliente vê seu produto (live, story, vitrine)\n2. Escaneia o QR Code com a câmera do celular\n3. Clica no cupom de desconto\n4. Paga via Pix (já com desconto aplicado)\n5. Mostra o comprovante e retira na loja\n\nONDE USAR:\nInstagram (stories, feed, bio), WhatsApp (catálogo, mensagens automáticas), loja física (vitrine, balcão, sacola), eventos (feiras, bazares). O mesmo QR Code pode estar em 10 lugares diferentes - é como ter 10 vendedores trabalhando 24h.\n\nDICAS DE OURO PARA CONVERSÃO:\n- Desconto real (mínimo 15-20%)\n- Prazo curto (válido por 3-7 dias)\n- Quantidade limitada (escassez real)\n- Foto de qualidade do produto\n- Descrição clara e objetiva\n\nACOMPANHAMENTO:\nAgora você tem dados reais: quantas vezes o QR Code foi escaneado, taxa de conversão, faturamento por cupom, produto mais vendido. Fim do achismo.",
+    "objetivos": [
+      "Compreender a evolução histórica da Tokto (2015-2026) e o contexto do CupomClic",
+      "Dominar o cadastro de produtos no CupomClic passo a passo",
+      "Entender a jornada completa do cliente em 30 segundos",
+      "Saber onde e como usar QR Codes para maximizar vendas",
+      "Aplicar as 5 dicas de ouro para criar cupons de alta conversão"
+    ],
+    "recursos": [
+      { "nome": "Tutorial: Criando seu Primeiro CupomClic (Passo a Passo)", "tipo": "PDF", "url": "/tokens/tutorial-cupomclic.md" },
+      { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/tokens/checklist-cupom.md" },
+      { "nome": "Template: Descrição de Produto Persuasiva", "tipo": "PDF", "url": "/tokens/template-descricao.md" },
+      { "nome": "Guia: Onde Colocar seu QR Code (20 Ideias)", "tipo": "PDF", "url": "/tokens/onde-usar-qrcode.md" }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Qual foi a principal evolução da Tokto de 2015 para 2026?",
+        "opcoes": [
+          "De programa de TV para ecossistema completo de IA + CupomClic",
+          "Apenas mudança de nome da empresa",
+          "Foco exclusivo em lojas físicas"
+        ],
+        "respostaCorreta": 0
+      },
+      {
+        "pergunta": "Qual é o tempo médio da jornada completa do CupomClic (do scan ao pagamento)?",
+        "opcoes": [
+          "5 minutos",
+          "30 segundos",
+          "2 minutos"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual é a principal vantagem do CupomClic em relação a sistemas tradicionais?",
+        "opcoes": [
+          "Exige cadastro complexo do cliente",
+          "Elimina barreiras: sem app, sem cadastro, sem burocracia",
+          "Só funciona em computadores"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual é o desconto mínimo recomendado para um cupom de alta conversão?",
+        "opcoes": [
+          "5-10%",
+          "15-20%",
+          "50-60%"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Onde você PODE usar o QR Code do CupomClic?",
+        "opcoes": [
+          "Apenas na vitrine da loja",
+          "Instagram, WhatsApp, loja física, eventos (múltiplos lugares)",
+          "Apenas em lives"
+        ],
+        "respostaCorreta": 1
+      }
+    ]
   },
   {
     "id": "dia-3",
     "titulo": "Mestre das Lives",
     "subtitulo": "Oratória de Elite e Gatilhos Mentais",
     "duracao": "2 horas",
-    "icone": "️",
+    "icone": "🎙️",
     "videoUrl": "",
     "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo.",
     "conteudo": "Live commerce não é sobre falar bonito, é sobre criar urgência, autoridade e conexão emocional.",
@@ -87,7 +145,7 @@
     "titulo": "Superpoderes com IA",
     "subtitulo": "Produtividade 10x com Inteligência Artificial",
     "duracao": "2 horas",
-    "icone": "🤖",
+    "icone": "",
     "videoUrl": "",
     "descricao": "Transforme IA em seu exército pessoal: crie roteiros, artes e legendas em minutos.",
     "conteudo": "Você não precisa ser designer ou copywriter. A IA faz o trabalho pesado em segundos.",
@@ -99,7 +157,7 @@
     "titulo": "WhatsApp & Automação",
     "subtitulo": "Sua Loja Aberta 24h no Bolso do Cliente",
     "duracao": "2 horas",
-    "icone": "💬",
+    "icone": "",
     "videoUrl": "",
     "descricao": "Transforme o WhatsApp em uma máquina de vendas automática com vitrine virtual.",
     "conteudo": "O WhatsApp é uma loja completa. Aprenda a configurar catálogo e automações que vendem enquanto você dorme.",
@@ -111,7 +169,7 @@
     "titulo": "Tráfego e Explosão",
     "subtitulo": "Como Lotar a Sala da Live",
     "duracao": "2 horas",
-    "icone": "🚀",
+    "icone": "",
     "videoUrl": "",
     "descricao": "Estratégias orgânicas e pagas para garantir espectadores na sua live de vendas.",
     "conteudo": "Aprenda a criar buzz, usar stories estratégicos e tráfego pago básico para encher sua sala.",
