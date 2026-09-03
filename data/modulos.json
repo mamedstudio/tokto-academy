@@ -59,75 +59,75 @@
     ]
   },
   {
-    "id": "dia-2",
-    "titulo": "CupomClic na Veia",
-    "subtitulo": "Da Evolução da Tokto à Prática dos 30 Segundos",
-    "duracao": "2 horas",
-    "icone": "⚡",
-    "videoUrl": "",
-    "descricao": "Conheça a jornada de 11 anos que nos trouxe até aqui e domine o CupomClic na prática: do cadastro à primeira venda em 30 segundos.",
-    "conteudo": "DE 2015 A 2026 - A NOSSA HISTÓRIA:\n\n2015 - A Gênese na TV: Nascemos como programa de TV inovador. O lojista trocava lucro por espaço comercial, garantindo que o valor total da compra fosse repassado a ele. Era o início da valorização do varejo físico através da mídia tradicional.\n\n2020 - A Revolução Phygital: A descoberta do digital em um SAAS nos transformou no aplicativo TOKTO. Entramos na era Phygital, exigindo do lojista um desconto agressivo. Fizemos nosso MVP com 10 mil aplicativos baixados e 100 lojas parceiras.\n\n2023 - Franquia e BOPIS: Com plataforma própria, adotamos o BOPIS (compra online, busca na loja) para trazer de volta o consumidor à rua. Entendemos que o desconto é apenas um chamariz e nos posicionamos como a salvação do varejo físico no Brasil.\n\n2026 - O Ecossistema de Inteligência: Demos o passo definitivo com a transformação em IATokto e CupomClic. Unimos nosso agente de inteligência artificial com a plataforma de fidelidade inteligente, criando um ecossistema com links clicáveis para Instagram e WhatsApp.\n\nPOR QUE CUPOMCLIC?\nDepois de 11 anos aprendendo o que funciona e o que não funciona, chegamos à conclusão: o cliente quer rapidez. CupomClic elimina TODAS as barreiras entre o desejo e a compra. Em 30 segundos, o cliente escaneia o QR Code, clica no cupom, paga via Pix e já está com o desconto na mão. Sem app, sem cadastro, sem burocracia.\n\nCOMO FUNCIONA NA PRÁTICA:\n1. Cliente vê seu produto (live, story, vitrine)\n2. Escaneia o QR Code com a câmera do celular\n3. Clica no cupom de desconto\n4. Paga via Pix (já com desconto aplicado)\n5. Mostra o comprovante e retira na loja\n\nONDE USAR:\nInstagram (stories, feed, bio), WhatsApp (catálogo, mensagens automáticas), loja física (vitrine, balcão, sacola), eventos (feiras, bazares). O mesmo QR Code pode estar em 10 lugares diferentes - é como ter 10 vendedores trabalhando 24h.\n\nDICAS DE OURO PARA CONVERSÃO:\n- Desconto real (mínimo 15-20%)\n- Prazo curto (válido por 3-7 dias)\n- Quantidade limitada (escassez real)\n- Foto de qualidade do produto\n- Descrição clara e objetiva\n\nACOMPANHAMENTO:\nAgora você tem dados reais: quantas vezes o QR Code foi escaneado, taxa de conversão, faturamento por cupom, produto mais vendido. Fim do achismo.",
-    "objetivos": [
-      "Compreender a evolução histórica da Tokto (2015-2026) e o contexto do CupomClic",
-      "Dominar o cadastro de produtos no CupomClic passo a passo",
-      "Entender a jornada completa do cliente em 30 segundos",
-      "Saber onde e como usar QR Codes para maximizar vendas",
-      "Aplicar as 5 dicas de ouro para criar cupons de alta conversão"
-    ],
-    "recursos": [
-      { "nome": "Tutorial: Criando seu Primeiro CupomClic (Passo a Passo)", "tipo": "PDF", "url": "/tokens/tutorial-cupomclic.md" },
-      { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/tokens/checklist-cupom.md" },
-      { "nome": "Template: Descrição de Produto Persuasiva", "tipo": "PDF", "url": "/tokens/template-descricao.md" },
-      { "nome": "Guia: Onde Colocar seu QR Code (20 Ideias)", "tipo": "PDF", "url": "/tokens/onde-usar-qrcode.md" }
-    ],
-    "quiz": [
-      {
-        "pergunta": "Qual foi a principal evolução da Tokto de 2015 para 2026?",
-        "opcoes": [
-          "De programa de TV para ecossistema completo de IA + CupomClic",
-          "Apenas mudança de nome da empresa",
-          "Foco exclusivo em lojas físicas"
-        ],
-        "respostaCorreta": 0
-      },
-      {
-        "pergunta": "Qual é o tempo médio da jornada completa do CupomClic (do scan ao pagamento)?",
-        "opcoes": [
-          "5 minutos",
-          "30 segundos",
-          "2 minutos"
-        ],
-        "respostaCorreta": 1
-      },
-      {
-        "pergunta": "Qual é a principal vantagem do CupomClic em relação a sistemas tradicionais?",
-        "opcoes": [
-          "Exige cadastro complexo do cliente",
-          "Elimina barreiras: sem app, sem cadastro, sem burocracia",
-          "Só funciona em computadores"
-        ],
-        "respostaCorreta": 1
-      },
-      {
-        "pergunta": "Qual é o desconto mínimo recomendado para um cupom de alta conversão?",
-        "opcoes": [
-          "5-10%",
-          "15-20%",
-          "50-60%"
-        ],
-        "respostaCorreta": 1
-      },
-      {
-        "pergunta": "Onde você PODE usar o QR Code do CupomClic?",
-        "opcoes": [
-          "Apenas na vitrine da loja",
-          "Instagram, WhatsApp, loja física, eventos (múltiplos lugares)",
-          "Apenas em lives"
-        ],
-        "respostaCorreta": 1
-      }
-    ]
-  },
+  "id": "dia-2",
+  "titulo": "CupomClic na Veia",
+  "subtitulo": "Da Evolução da Tokto à Prática dos 30 Segundos",
+  "duracao": "2 horas",
+  "icone": "⚡",
+  "videoUrl": "",
+  "descricao": "Conheça a jornada de 11 anos que nos trouxe até aqui e domine o CupomClic na prática: link clicável que vende em 30 segundos, sem sair do Instagram.",
+  "conteudo": "DE 2015 A 2026 - A NOSSA HISTÓRIA:\n\n2015 - A Gênese na TV: Nascemos como programa de TV inovador. O lojista trocava lucro por espaço comercial, garantindo que o valor total da compra fosse repassado a ele. Era o início da valorização do varejo físico através da mídia tradicional.\n\n2020 - A Revolução Phygital: A descoberta do digital em um SAAS nos transformou no aplicativo TOKTO. Entramos na era Phygital, exigindo do lojista um desconto agressivo. Fizemos nosso MVP com 10 mil aplicativos baixados e 100 lojas parceiras.\n\n2023 - Franquia e BOPIS: Com plataforma própria, adotamos o BOPIS (compra online, busca na loja) para trazer de volta o consumidor à rua. Entendemos que o desconto é apenas um chamariz e nos posicionamos como a salvação do varejo físico no Brasil.\n\n2026 - O Ecossistema de Inteligência: Demos o passo definitivo com a transformação em IATokto e CupomClic. Unimos nosso agente de inteligência artificial com a plataforma de fidelidade inteligente, criando um ecossistema com links clicáveis para Instagram e WhatsApp.\n\nPOR QUE CUPOMCLIC?\nDepois de 11 anos aprendendo o que funciona e o que não funciona, chegamos à conclusão: o cliente quer rapidez. CupomClic elimina TODAS as barreiras entre o desejo e a compra. É um link clicável que funciona DENTRO do Instagram e WhatsApp - sem precisar escanear QR Code, sem baixar app, sem sair da plataforma. Em 30 segundos, o cliente clica no link, o desconto é aplicado automaticamente, paga via Pix e já está com a compra feita.\n\nCOMO FUNCIONA NA PRÁTICA:\n1. Cliente vê seu produto (live, story, WhatsApp, vitrine)\n2. Clica no link do CupomClic (já está na bio, story ou mensagem)\n3. O desconto é aplicado automaticamente - sem precisar digitar código\n4. Paga via Pix (sem sair da página)\n5. Mostra o comprovante e retira na loja\n\nONDE USAR:\nInstagram (bio, stories com link, legenda de post), WhatsApp (mensagem direta, lista de transmissão, status), live shopping (link fixado no chat), e-mail marketing. O mesmo link pode estar em 10 lugares diferentes - é como ter 10 vendedores trabalhando 24h.\n\nDICAS DE OURO PARA CONVERSÃO:\n- Desconto real (mínimo 15-20%)\n- Prazo curto (válido por 3-7 dias)\n- Quantidade limitada (escassez real)\n- Foto de qualidade do produto\n- Descrição clara e objetiva\n- Link visível e fácil de clicar\n\nACOMPANHAMENTO:\nAgora você tem dados reais: quantas vezes o link foi clicado, taxa de conversão, faturamento por cupom, produto mais vendido. Fim do achismo.",
+  "objetivos": [
+    "Compreender a evolução histórica da Tokto (2015-2026) e o contexto do CupomClic",
+    "Dominar a criação de links clicáveis do CupomClic passo a passo",
+    "Entender a jornada completa do cliente em 30 segundos (sem sair do Instagram/WhatsApp)",
+    "Saber onde e como usar links clicáveis para maximizar vendas",
+    "Aplicar as 5 dicas de ouro para criar cupons de alta conversão"
+  ],
+  "recursos": [
+    { "nome": "Tutorial: Criando seu Primeiro CupomClic (Link Clicável)", "tipo": "PDF", "url": "/tokens/tutorial-cupomclic.md" },
+    { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/tokens/checklist-cupom.md" },
+    { "nome": "Template: Descrição de Produto Persuasiva", "tipo": "PDF", "url": "/tokens/template-descricao.md" },
+    { "nome": "Guia: Onde Colocar seu Link CupomClic (20 Ideias)", "tipo": "PDF", "url": "/tokens/onde-usar-link.md" }
+  ],
+  "quiz": [
+    {
+      "pergunta": "Qual foi a principal evolução da Tokto de 2015 para 2026?",
+      "opcoes": [
+        "De programa de TV para ecossistema completo de IA + CupomClic",
+        "Apenas mudança de nome da empresa",
+        "Foco exclusivo em lojas físicas"
+      ],
+      "respostaCorreta": 0
+    },
+    {
+      "pergunta": "Qual é o tempo médio da jornada completa do CupomClic (do clique ao pagamento)?",
+      "opcoes": [
+        "5 minutos",
+        "30 segundos",
+        "2 minutos"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Qual é a principal vantagem do CupomClic em relação a sistemas tradicionais?",
+      "opcoes": [
+        "Exige que o cliente saia do Instagram para comprar",
+        "Link clicável que funciona DENTRO do Instagram/WhatsApp - sem sair da plataforma",
+        "Só funciona em computadores"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Qual é o desconto mínimo recomendado para um cupom de alta conversão?",
+      "opcoes": [
+        "5-10%",
+        "15-20%",
+        "50-60%"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Onde você PODE usar o link do CupomClic?",
+      "opcoes": [
+        "Apenas na vitrine da loja",
+        "Instagram, WhatsApp, live shopping, e-mail (múltiplos lugares)",
+        "Apenas em sites externos"
+      ],
+      "respostaCorreta": 1
+    }
+  ]
+},
   {
     "id": "dia-3",
     "titulo": "Mestre das Lives",
