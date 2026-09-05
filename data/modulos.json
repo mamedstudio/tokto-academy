@@ -129,17 +129,64 @@
   ]
 },
   {
-    "id": "dia-3",
-    "titulo": "Mestre das Lives",
-    "subtitulo": "Oratória de Elite e Gatilhos Mentais",
-    "duracao": "2 horas",
-    "icone": "🎙️",
-    "videoUrl": "",
-    "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo.",
-    "conteudo": "Live commerce não é sobre falar bonito, é sobre criar urgência, autoridade e conexão emocional.",
-    "objetivos": ["Dominar a estrutura de abertura e fechamento", "Aplicar gatilhos mentais", "Desenvolver ritmo para live"],
-    "recursos": [{ "nome": "Bíblia da Live Commerce Tokto", "tipo": "PDF", "url": "/tokens/biblia-live.md" }]
-  },
+  "id": "dia-3",
+  "titulo": "Mestre das Lives",
+  "subtitulo": "Oratória de Elite e Gatilhos Mentais",
+  "duracao": "2 horas",
+  "icone": "🎙️",
+  "videoUrl": "",
+  "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo. Aprenda a estruturar, engajar e converter usando o CupomClic no momento exato.",
+  "conteudo": "A LIVE COMO FILIAL DIGITAL: A live não é entretenimento, é sua nova filial de vendas. O lojista de rua tem a vantagem da autenticidade que os grandes marketplaces não conseguem replicar.\n\nA ESTRUTURA DE 3 ATOS:\n1. Abertura (0-5 min): Gancho forte, promessa e aquecimento da audiência.\n2. Desenvolvimento (5-25 min): Apresentação do produto, demonstração e aplicação de gatilhos mentais.\n3. Fechamento (25-30 min): Revelação da oferta, liberação do link do CupomClic e escassez real.\n\nOS 3 GATILHOS DE OURO:\n- Escassez e Urgência: 'Só tenho 3 unidades e esse cupom expira em 10 minutos'. (Deve ser real).\n- Prova Social: Ler depoimentos, mostrar clientes usando, validar a escolha do público.\n- Transformação: Não venda as especificações do produto, venda a versão melhorada da vida do cliente com aquele produto.\n\nA SINCRONIA PERFEITA: O maior erro é soltar o link antes de criar o desejo. A sequência correta é: 1) Criar desejo máximo, 2) Anunciar a condição especial, 3) Soltar o link do CupomClic, 4) Contagem regressiva.\n\nSETUP MÍNIMO VIÁVEL: Você não precisa de um estúdio de TV. Luz de frente (janela ou ring light), um microfone de lapela simples, cenário organizado e internet estável. Energia e método valem mais que equipamento caro.\n\nERROS FATAIS: Silêncios longos, ignorar o chat, demorar para passar o preço e terminar com 'qualquer coisa me chama'. Você deve conduzir a próxima decisão do cliente.",
+  "objetivos": [
+    "Dominar a estrutura de 3 atos de uma live de alta conversão",
+    "Aplicar os 3 gatilhos mentais principais (Escassez, Prova Social e Transformação)",
+    "Executar a sincronia perfeita entre a criação de desejo e a liberação do link do CupomClic",
+    "Montar um setup técnico profissional com custo zero ou muito baixo"
+  ],
+  "recursos": [
+    { "nome": "Template: Roteiro de Live de 30 Minutos (Editável)", "tipo": "PDF", "url": "/tokens/roteiro-live-30min.md" },
+    { "nome": "Checklist: Setup Técnico e Pré-Live", "tipo": "PDF", "url": "/tokens/checklist-pre-live.md" },
+    { "nome": "Guia: 20 Frases de Fechamento que Convertem", "tipo": "PDF", "url": "/tokens/frases-fechamento.md" }
+  ],
+  "quiz": [
+    {
+      "pergunta": "Qual é a principal função da 'Abertura' (Ato 1) em uma live?",
+      "opcoes": [
+        "Ficar esperando as pessoas entrarem e conversar sobre o clima",
+        "Apresentar um gancho forte, fazer uma promessa e aquecer a audiência",
+        "Já começar vendendo o produto mais caro"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Sobre o gatilho da escassez, qual é a regra de ouro?",
+      "opcoes": [
+        "Inventar números para pressionar o cliente",
+        "A escassez deve ser sempre real e verdadeira",
+        "Nunca usar escassez, pois o cliente não gosta"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Qual é a sequência correta para usar o CupomClic na live?",
+      "opcoes": [
+        "Soltar o link no primeiro minuto e esperar",
+        "Criar desejo -> Anunciar a oferta -> Soltar o link do CupomClic -> Contagem regressiva",
+        "Falar o preço e encerrar a live imediatamente"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Qual é o erro fatal que mais mata a conversão em uma live?",
+      "opcoes": [
+        "Usar um microfone de lapela simples",
+        "Ficar em silêncio por longos períodos e ignorar o chat",
+        "Ter uma janela como fonte de luz"
+      ],
+      "respostaCorreta": 1
+    }
+  ]
+},
   {
     "id": "dia-4",
     "titulo": "Superpoderes com IA",
