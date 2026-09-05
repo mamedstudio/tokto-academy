@@ -28,6 +28,7 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
     "roteiros-instagram": "roteiros-instagram.md",
     "stories-que-convertem": "stories-que-convertem.md",
     "catalogo-whatsapp": "catalogo-whatsapp.md",
+    "roteiros-embaixador": "roteiros-embaixador.md",
   };;
 
   const nomeArquivo = arquivoMap[slug];
