@@ -6,7 +6,7 @@ import path from "path";
 export default async function RecursoPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
 
-  const arquivoMap: Record<string, string> = {
+    const arquivoMap: Record<string, string> = {
     "paridade-armas": "paridade-armas.md",
     "manifesto": "manifesto.md",
     "case-sucesso": "case-sucesso.md",
@@ -25,7 +25,10 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
     "guia-whatsapp": "guia-whatsapp.md",
     "calendario-divulgacao": "calendario-divulgacao.md",
     "roteiro-gravacao-mentoria": "roteiro-gravacao-mentoria.md",
-  };
+    "roteiros-instagram": "roteiros-instagram.md",
+    "stories-que-convertem": "stories-que-convertem.md",
+    "catalogo-whatsapp": "catalogo-whatsapp.md",
+  };;
 
   const nomeArquivo = arquivoMap[slug];
   
