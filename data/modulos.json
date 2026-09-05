@@ -7,51 +7,51 @@
     "icone": "🌍",
     "videoUrl": "",
     "descricao": "Entenda por que a Magalu se rendeu ao Mercado Livre, por que o live shopping é o futuro, e como o Varejo de Rua tem uma vantagem injusta: o Hiperlocal.",
-    "conteudo": "O COLAPSO DAS GIGANTES: A notícia recente de que a Magalu fez parceria com o Mercado Livre não é uma estratégia de crescimento - é sobrevivência. Se a 'rainha do digital' brasileiro precisou se render ao maior marketplace da América Latina, isso é um sinal claro: o modelo tradicional de marketplace está em crise. Casas Bahia, Americanas, todas sangrando.\n\nA VALIDAÇÃO DO LIVE SHOPPING: Enquanto isso, o Mercado Livre acaba de lançar o Mercado Live - transformando seu app em canal de compras ao vivo. Isso não é 'modinha'. É a confirmação de que entretenimento + conveniência é o futuro do varejo. Se o maior player da AL está investindo em live shopping, você precisa entender que está na crista da onda certa.\n\nA ASSIMETRIA MORTAL: Enquanto as gigantes sabem o que o cliente clicou, quanto tempo ficou na página e o que comprou, o lojista de rua não sabe nem quem entrou na loja hoje. Essa falta de dados é o que mata o negócio.\n\nO PODER DO HIPERLOCAL: Mas você tem algo que eles nunca terão: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'. O cliente não quer apenas um produto, ele quer pertencimento.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto não veio para competir com os gigantes, mas para dar ao lojista de rua as mesmas ferramentas tecnológicas que eles usam (CupomClic, Live Shopping, dados de conversão), democratizando o acesso e nivelando o jogo. Enquanto as gigantes se unem para sobreviver, você terá suas próprias armas.",
+    "conteudo": "O COLAPSO DAS GIGANTES: A notícia recente de que a Magalu fez parceria com o Mercado Livre não é uma estratégia de crescimento - é sobrevivência. Se a 'rainha do digital' brasileiro precisou se render ao maior marketplace da América Latina, isso é um sinal claro: o modelo tradicional de marketplace está em crise.\n\nA VALIDAÇÃO DO LIVE SHOPPING: Enquanto isso, o Mercado Livre acaba de lançar o Mercado Live. Isso não é 'modinha'. É a confirmação de que entretenimento + conveniência é o futuro do varejo.\n\nA ASSIMETRIA MORTAL: Enquanto as gigantes sabem o que o cliente clicou e comprou, o lojista de rua não sabe nem quem entrou na loja hoje.\n\nO PODER DO HIPERLOCAL: Mas você tem algo que eles nunca terão: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto veio para dar ao lojista de rua as mesmas ferramentas tecnológicas que os gigantes usam (CupomClic, Live Shopping, dados), democratizando o acesso e nivelando o jogo.",
     "objetivos": [
-      "Compreender o colapso do modelo tradicional de marketplace (case Magalu + Mercado Livre)",
-      "Entender a validação do Live Shopping como estratégia definitiva de vendas",
-      "Identificar a vantagem competitiva do Hiperlocal frente aos gigantes",
-      "Internalizar a Tokto como ferramenta de paridade de armas tecnológicas"
+      "Compreender o colapso do modelo tradicional de marketplace",
+      "Entender a validação do Live Shopping como estratégia definitiva",
+      "Identificar a vantagem competitiva do Hiperlocal",
+      "Internalizar a Tokto como ferramenta de paridade de armas"
     ],
     "recursos": [
       { "nome": "Notícia: Magalu faz parceria com Mercado Livre", "tipo": "LINK", "url": "https://braziljournal.com/magalu-faz-parceria-com-o-mercado-livre-para-vender-seus-produtos/" },
       { "nome": "Notícia: Mercado Livre lança Live Shopping", "tipo": "LINK", "url": "https://exame.com/marketing/mercado-livre-lanca-live-shopping-e-transforma-app-em-canal-de-compras-ao-vivo/" },
-      { "nome": "Artigo: O que é Paridade de Armas no Varejo 4.0", "tipo": "PDF", "url": "https://raw.githubusercontent.com/mamedstudio/tokto-academy/main/public/tokens/paridade-armas.md" }
+      { "nome": "Artigo: O que é Paridade de Armas no Varejo 4.0", "tipo": "PDF", "url": "/recursos/paridade-armas" }
     ],
     "quiz": [
       {
-        "pergunta": "Por que a parceria entre Magalu e Mercado Livre é um sinal de alerta para o varejo?",
+        "pergunta": "Por que a parceria entre Magalu e Mercado Livre é um sinal de alerta?",
         "opcoes": [
-          "Porque mostra que até as gigantes estão em crise e precisam de alianças para sobreviver",
+          "Porque mostra que até as gigantes precisam de alianças para sobreviver",
           "Porque o Mercado Livre está comprando todas as lojas",
           "Porque a Magalu está crescendo demais"
         ],
         "respostaCorreta": 0
       },
       {
-        "pergunta": "O que o lançamento do Mercado Live (live shopping do Mercado Livre) valida?",
+        "pergunta": "O que o lançamento do Mercado Live valida?",
         "opcoes": [
           "Que live shopping é apenas uma modinha passageira",
-          "Que entretenimento + conveniência é o futuro do varejo e uma estratégia confirmada pelos maiores players",
+          "Que entretenimento + conveniência é o futuro do varejo",
           "Que apenas marketplaces gigantes podem fazer lives"
         ],
         "respostaCorreta": 1
       },
       {
-        "pergunta": "Qual é a maior vantagem competitiva do varejo de rua (Hiperlocal) frente aos gigantes do e-commerce?",
+        "pergunta": "Qual é a maior vantagem do varejo de rua (Hiperlocal)?",
         "opcoes": [
           "Ter preços sempre mais baixos que a China",
-          "Confiança, relacionamento com a comunidade, entrega imediata e atendimento 'olho no olho'",
+          "Confiança, relacionamento com a comunidade e atendimento 'olho no olho'",
           "Possuir um aplicativo próprio com milhões de downloads"
         ],
         "respostaCorreta": 1
       },
       {
-        "pergunta": "Qual é o conceito de 'Paridade de Armas' defendido pela Tokto?",
+        "pergunta": "Qual é o conceito de 'Paridade de Armas' da Tokto?",
         "opcoes": [
-          "O lojista deve tentar copiar exatamente o que a Amazon faz",
-          "Democratizar o acesso à tecnologia de ponta (Live Shopping, CupomClic e dados), nivelando o jogo para o lojista de rua",
+          "Copiar exatamente o que a Amazon faz",
+          "Democratizar o acesso à tecnologia de ponta, nivelando o jogo para o lojista de rua",
           "Proibir o uso de marketplaces na cidade"
         ],
         "respostaCorreta": 1
@@ -59,169 +59,117 @@
     ]
   },
   {
-  "id": "dia-2",
-  "titulo": "CupomClic na Veia",
-  "subtitulo": "Da Evolução da Tokto à Prática dos 30 Segundos",
-  "duracao": "2 horas",
-  "icone": "⚡",
-  "videoUrl": "",
-  "descricao": "Conheça a jornada de 11 anos que nos trouxe até aqui e domine o CupomClic na prática: link clicável que vende em 30 segundos, sem sair do Instagram.",
-  "conteudo": "DE 2015 A 2026 - A NOSSA HISTÓRIA:\n\n2015 - A Gênese na TV: Nascemos como programa de TV inovador. O lojista trocava lucro por espaço comercial, garantindo que o valor total da compra fosse repassado a ele. Era o início da valorização do varejo físico através da mídia tradicional.\n\n2020 - A Revolução Phygital: A descoberta do digital em um SAAS nos transformou no aplicativo TOKTO. Entramos na era Phygital, exigindo do lojista um desconto agressivo. Fizemos nosso MVP com 10 mil aplicativos baixados e 100 lojas parceiras.\n\n2023 - Franquia e BOPIS: Com plataforma própria, adotamos o BOPIS (compra online, busca na loja) para trazer de volta o consumidor à rua. Entendemos que o desconto é apenas um chamariz e nos posicionamos como a salvação do varejo físico no Brasil.\n\n2026 - O Ecossistema de Inteligência: Demos o passo definitivo com a transformação em IATokto e CupomClic. Unimos nosso agente de inteligência artificial com a plataforma de fidelidade inteligente, criando um ecossistema com links clicáveis para Instagram e WhatsApp.\n\nPOR QUE CUPOMCLIC?\nDepois de 11 anos aprendendo o que funciona e o que não funciona, chegamos à conclusão: o cliente quer rapidez. CupomClic elimina TODAS as barreiras entre o desejo e a compra. É um link clicável que funciona DENTRO do Instagram e WhatsApp - sem precisar escanear QR Code, sem baixar app, sem sair da plataforma. Em 30 segundos, o cliente clica no link, o desconto é aplicado automaticamente, paga via Pix e já está com a compra feita.\n\nCOMO FUNCIONA NA PRÁTICA:\n1. Cliente vê seu produto (live, story, WhatsApp, vitrine)\n2. Clica no link do CupomClic (já está na bio, story ou mensagem)\n3. O desconto é aplicado automaticamente - sem precisar digitar código\n4. Paga via Pix (sem sair da página)\n5. Mostra o comprovante e retira na loja\n\nONDE USAR:\nInstagram (bio, stories com link, legenda de post), WhatsApp (mensagem direta, lista de transmissão, status), live shopping (link fixado no chat), e-mail marketing. O mesmo link pode estar em 10 lugares diferentes - é como ter 10 vendedores trabalhando 24h.\n\nDICAS DE OURO PARA CONVERSÃO:\n- Desconto real (mínimo 15-20%)\n- Prazo curto (válido por 3-7 dias)\n- Quantidade limitada (escassez real)\n- Foto de qualidade do produto\n- Descrição clara e objetiva\n- Link visível e fácil de clicar\n\nACOMPANHAMENTO:\nAgora você tem dados reais: quantas vezes o link foi clicado, taxa de conversão, faturamento por cupom, produto mais vendido. Fim do achismo.",
-  "objetivos": [
-    "Compreender a evolução histórica da Tokto (2015-2026) e o contexto do CupomClic",
-    "Dominar a criação de links clicáveis do CupomClic passo a passo",
-    "Entender a jornada completa do cliente em 30 segundos (sem sair do Instagram/WhatsApp)",
-    "Saber onde e como usar links clicáveis para maximizar vendas",
-    "Aplicar as 5 dicas de ouro para criar cupons de alta conversão"
-  ],
-  "recursos": [
-    { "nome": "Tutorial: Criando seu Primeiro CupomClic (Link Clicável)", "tipo": "PDF", "url": "/tokens/tutorial-cupomclic.md" },
-    { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/tokens/checklist-cupom.md" },
-    { "nome": "Template: Descrição de Produto Persuasiva", "tipo": "PDF", "url": "/tokens/template-descricao.md" },
-    { "nome": "Guia: Onde Colocar seu Link CupomClic (20 Ideias)", "tipo": "PDF", "url": "/tokens/onde-usar-link.md" }
-  ],
-  "quiz": [
-    {
-      "pergunta": "Qual foi a principal evolução da Tokto de 2015 para 2026?",
-      "opcoes": [
-        "De programa de TV para ecossistema completo de IA + CupomClic",
-        "Apenas mudança de nome da empresa",
-        "Foco exclusivo em lojas físicas"
-      ],
-      "respostaCorreta": 0
-    },
-    {
-      "pergunta": "Qual é o tempo médio da jornada completa do CupomClic (do clique ao pagamento)?",
-      "opcoes": [
-        "5 minutos",
-        "30 segundos",
-        "2 minutos"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Qual é a principal vantagem do CupomClic em relação a sistemas tradicionais?",
-      "opcoes": [
-        "Exige que o cliente saia do Instagram para comprar",
-        "Link clicável que funciona DENTRO do Instagram/WhatsApp - sem sair da plataforma",
-        "Só funciona em computadores"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Qual é o desconto mínimo recomendado para um cupom de alta conversão?",
-      "opcoes": [
-        "5-10%",
-        "15-20%",
-        "50-60%"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Onde você PODE usar o link do CupomClic?",
-      "opcoes": [
-        "Apenas na vitrine da loja",
-        "Instagram, WhatsApp, live shopping, e-mail (múltiplos lugares)",
-        "Apenas em sites externos"
-      ],
-      "respostaCorreta": 1
-    }
-  ]
-},
+    "id": "dia-2",
+    "titulo": "CupomClic na Veia",
+    "subtitulo": "Da Evolução Tokto à Solução Definitiva",
+    "duracao": "2 horas",
+    "icone": "⚡",
+    "videoUrl": "",
+    "descricao": "Acompanhe a jornada de 11 anos da Tokto: de 2015 a 2026, passando por 4 MVPs até chegar no CupomClic.",
+    "conteudo": "A JORNADA DE 11 ANOS - MVPs que Nos Ensinaram o Caminho:\n\n2015 - A GÊNESE NA TV: Programa 'Din Din'. Aprendizado: Valorização do varejo físico, mas difícil de mensurar.\n\n2020 - A REVOLUÇÃO DIGITAL: Aplicativo SAAS. Aprendizado: Desconto agressivo atrai, mas não fideliza.\n\n2023 - BOPIS E A FUSÃO: Compra online, busca na loja. Aprendizado: A experiência física é insubstituível.\n\n2024-2025 - ASCENSÃO DO LIVE COMMERCE: Magalu + Mercado Livre, Mercado Live. Tendência confirmada.\n\n2026 - O ECOSSISTEMA COMPLETO: IATokto + CupomClic. Links clicáveis que funcionam DENTRO das plataformas. Venda em 30 segundos, sem sair do Instagram/WhatsApp.\n\nPOR QUE CUPOMCLIC É A RESPOSTA:\n✅ Funciona ONDE o cliente está\n✅ Sem atrito (não precisa sair da plataforma)\n✅ Sem app para baixar\n✅ Com dados reais de conversão\n✅ Integrado com Pix",
+    "objetivos": [
+      "Compreender a evolução histórica da Tokto através de 4 MVPs",
+      "Entender como cada MVP gerou aprendizados cruciais",
+      "Identificar por que o CupomClic é a síntese de 11 anos de experiência",
+      "Reconhecer que a Tokto democratiza tendências do varejo global"
+    ],
+    "recursos": [
+      { "nome": "Linha do Tempo Completa: 2015-2026", "tipo": "PDF", "url": "/recursos/linha-do-tempo-tokto" },
+      { "nome": "Tutorial: Criando seu Primeiro CupomClic", "tipo": "PDF", "url": "/recursos/tutorial-cupomclic" },
+      { "nome": "Checklist: 10 Elementos de um Cupom que Converte", "tipo": "PDF", "url": "/recursos/checklist-cupom" },
+      { "nome": "Guia: Onde Colocar seu Link CupomClic (20 Ideias)", "tipo": "PDF", "url": "/recursos/onde-usar-link" }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Quantos MVPs a Tokto desenvolveu de 2015 a 2026?",
+        "opcoes": ["2 MVPs", "4 MVPs", "10 MVPs"],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual foi o principal aprendizado do MVP de 2020 (Aplicativo)?",
+        "opcoes": ["Desconto agressivo atrai, mas não fideliza", "TV ainda é o melhor canal", "Loja física não tem mais futuro"],
+        "respostaCorreta": 0
+      },
+      {
+        "pergunta": "Qual é a principal vantagem do CupomClic?",
+        "opcoes": ["Exige que o cliente saia do Instagram", "Link clicável que funciona DENTRO do Instagram/WhatsApp", "Só funciona em computadores"],
+        "respostaCorreta": 1
+      }
+    ]
+  },
   {
-  "id": "dia-3",
-  "titulo": "Mestre das Lives",
-  "subtitulo": "Oratória de Elite e Gatilhos Mentais",
-  "duracao": "2 horas",
-  "icone": "🎙️",
-  "videoUrl": "",
-  "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo. Aprenda a estruturar, engajar e converter usando o CupomClic no momento exato.",
-  "conteudo": "A LIVE COMO FILIAL DIGITAL: A live não é entretenimento, é sua nova filial de vendas. O lojista de rua tem a vantagem da autenticidade que os grandes marketplaces não conseguem replicar.\n\nA ESTRUTURA DE 3 ATOS:\n1. Abertura (0-5 min): Gancho forte, promessa e aquecimento da audiência.\n2. Desenvolvimento (5-25 min): Apresentação do produto, demonstração e aplicação de gatilhos mentais.\n3. Fechamento (25-30 min): Revelação da oferta, liberação do link do CupomClic e escassez real.\n\nOS 3 GATILHOS DE OURO:\n- Escassez e Urgência: 'Só tenho 3 unidades e esse cupom expira em 10 minutos'. (Deve ser real).\n- Prova Social: Ler depoimentos, mostrar clientes usando, validar a escolha do público.\n- Transformação: Não venda as especificações do produto, venda a versão melhorada da vida do cliente com aquele produto.\n\nA SINCRONIA PERFEITA: O maior erro é soltar o link antes de criar o desejo. A sequência correta é: 1) Criar desejo máximo, 2) Anunciar a condição especial, 3) Soltar o link do CupomClic, 4) Contagem regressiva.\n\nSETUP MÍNIMO VIÁVEL: Você não precisa de um estúdio de TV. Luz de frente (janela ou ring light), um microfone de lapela simples, cenário organizado e internet estável. Energia e método valem mais que equipamento caro.\n\nERROS FATAIS: Silêncios longos, ignorar o chat, demorar para passar o preço e terminar com 'qualquer coisa me chama'. Você deve conduzir a próxima decisão do cliente.",
-  "objetivos": [
-    "Dominar a estrutura de 3 atos de uma live de alta conversão",
-    "Aplicar os 3 gatilhos mentais principais (Escassez, Prova Social e Transformação)",
-    "Executar a sincronia perfeita entre a criação de desejo e a liberação do link do CupomClic",
-    "Montar um setup técnico profissional com custo zero ou muito baixo"
-  ],
-  "recursos": [
-    { "nome": "Template: Roteiro de Live de 30 Minutos (Editável)", "tipo": "PDF", "url": "/tokens/roteiro-live-30min.md" },
-    { "nome": "Checklist: Setup Técnico e Pré-Live", "tipo": "PDF", "url": "/tokens/checklist-pre-live.md" },
-    { "nome": "Guia: 20 Frases de Fechamento que Convertem", "tipo": "PDF", "url": "/tokens/frases-fechamento.md" }
-  ],
-  "quiz": [
-    {
-      "pergunta": "Qual é a principal função da 'Abertura' (Ato 1) em uma live?",
-      "opcoes": [
-        "Ficar esperando as pessoas entrarem e conversar sobre o clima",
-        "Apresentar um gancho forte, fazer uma promessa e aquecer a audiência",
-        "Já começar vendendo o produto mais caro"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Sobre o gatilho da escassez, qual é a regra de ouro?",
-      "opcoes": [
-        "Inventar números para pressionar o cliente",
-        "A escassez deve ser sempre real e verdadeira",
-        "Nunca usar escassez, pois o cliente não gosta"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Qual é a sequência correta para usar o CupomClic na live?",
-      "opcoes": [
-        "Soltar o link no primeiro minuto e esperar",
-        "Criar desejo -> Anunciar a oferta -> Soltar o link do CupomClic -> Contagem regressiva",
-        "Falar o preço e encerrar a live imediatamente"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Qual é o erro fatal que mais mata a conversão em uma live?",
-      "opcoes": [
-        "Usar um microfone de lapela simples",
-        "Ficar em silêncio por longos períodos e ignorar o chat",
-        "Ter uma janela como fonte de luz"
-      ],
-      "respostaCorreta": 1
-    }
-  ]
-},
+    "id": "dia-3",
+    "titulo": "Mestre das Lives",
+    "subtitulo": "Oratória de Elite e Gatilhos Mentais",
+    "duracao": "2 horas",
+    "icone": "🎙️",
+    "videoUrl": "",
+    "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo.",
+    "conteudo": "A LIVE COMO FILIAL DIGITAL: A live não é entretenimento, é sua nova filial de vendas.\n\nA ESTRUTURA DE 3 ATOS:\n1. Abertura (0-5 min): Gancho forte, promessa e aquecimento.\n2. Desenvolvimento (5-25 min): Apresentação, demonstração e gatilhos mentais.\n3. Fechamento (25-30 min): Revelação da oferta, liberação do link do CupomClic e escassez real.\n\nOS 3 GATILHOS DE OURO:\n- Escassez e Urgência: 'Só tenho 3 unidades e esse cupom expira em 10 minutos'.\n- Prova Social: Ler depoimentos, mostrar clientes usando.\n- Transformação: Não venda as especificações, venda a versão melhorada da vida do cliente.\n\nA SINCRONIA PERFEITA: 1) Criar desejo, 2) Anunciar a oferta, 3) Soltar o link do CupomClic, 4) Contagem regressiva.",
+    "objetivos": [
+      "Dominar a estrutura de 3 atos de uma live de alta conversão",
+      "Aplicar os 3 gatilhos mentais principais",
+      "Executar a sincronia perfeita entre desejo e liberação do link do CupomClic",
+      "Montar um setup técnico profissional com custo zero ou muito baixo"
+    ],
+    "recursos": [
+      { "nome": "Template: Roteiro de Live de 30 Minutos", "tipo": "PDF", "url": "/recursos/roteiro-live-30min" },
+      { "nome": "Checklist: Setup Técnico e Pré-Live", "tipo": "PDF", "url": "/recursos/checklist-pre-live" },
+      { "nome": "Guia: 20 Frases de Fechamento que Convertem", "tipo": "PDF", "url": "/recursos/frases-fechamento" }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Qual é a principal função da 'Abertura' (Ato 1) em uma live?",
+        "opcoes": ["Ficar esperando as pessoas entrarem", "Apresentar um gancho forte, fazer uma promessa e aquecer a audiência", "Já começar vendendo o produto mais caro"],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Sobre o gatilho da escassez, qual é a regra de ouro?",
+        "opcoes": ["Inventar números para pressionar", "A escassez deve ser sempre real e verdadeira", "Nunca usar escassez"],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual é a sequência correta para usar o CupomClic na live?",
+        "opcoes": ["Soltar o link no primeiro minuto", "Criar desejo -> Anunciar a oferta -> Soltar o link -> Contagem regressiva", "Falar o preço e encerrar"],
+        "respostaCorreta": 1
+      }
+    ]
+  },
   {
     "id": "dia-4",
     "titulo": "Superpoderes com IA",
     "subtitulo": "Produtividade 10x com Inteligência Artificial",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "🤖",
     "videoUrl": "",
     "descricao": "Transforme IA em seu exército pessoal: crie roteiros, artes e legendas em minutos.",
     "conteudo": "Você não precisa ser designer ou copywriter. A IA faz o trabalho pesado em segundos.",
     "objetivos": ["Dominar prompts no ChatGPT", "Criar imagens com Canva AI", "Automatizar conteúdo"],
-    "recursos": [{ "nome": "Biblioteca de Prompts Tokto", "tipo": "PDF", "url": "/tokens/prompts-ia.md" }]
+    "recursos": [{ "nome": "Biblioteca de Prompts Tokto", "tipo": "PDF", "url": "/recursos/prompts-ia" }]
   },
   {
     "id": "dia-5",
     "titulo": "WhatsApp & Automação",
     "subtitulo": "Sua Loja Aberta 24h no Bolso do Cliente",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "💬",
     "videoUrl": "",
     "descricao": "Transforme o WhatsApp em uma máquina de vendas automática com vitrine virtual.",
     "conteudo": "O WhatsApp é uma loja completa. Aprenda a configurar catálogo e automações que vendem enquanto você dorme.",
     "objetivos": ["Configurar WhatsApp Business", "Criar catálogo atrativo", "Implementar automações básicas"],
-    "recursos": [{ "nome": "Guia WhatsApp Business para Vendas", "tipo": "PDF", "url": "/tokens/guia-whatsapp.md" }]
+    "recursos": [{ "nome": "Guia WhatsApp Business para Vendas", "tipo": "PDF", "url": "/recursos/guia-whatsapp" }]
   },
   {
     "id": "dia-6",
     "titulo": "Tráfego e Explosão",
     "subtitulo": "Como Lotar a Sala da Live",
     "duracao": "2 horas",
-    "icone": "",
+    "icone": "🚀",
     "videoUrl": "",
     "descricao": "Estratégias orgânicas e pagas para garantir espectadores na sua live de vendas.",
     "conteudo": "Aprenda a criar buzz, usar stories estratégicos e tráfego pago básico para encher sua sala.",
     "objetivos": ["Criar cronograma de 7 dias", "Produzir teasers", "Entender Meta Ads para lives"],
-    "recursos": [{ "nome": "Calendário Editorial de Divulgação", "tipo": "PDF", "url": "/tokens/calendario-divulgacao.md" }]
+    "recursos": [{ "nome": "Calendário Editorial de Divulgação", "tipo": "PDF", "url": "/recursos/calendario-divulgacao" }]
   },
   {
     "id": "dia-7",
@@ -233,6 +181,6 @@
     "descricao": "Aprenda a ler métricas, analisar resultados e melhorar 10% a cada live usando dados reais.",
     "conteudo": "Venda é ciência. Aprenda a medir pico de audiência, taxa de conversão e CAC para escalar resultados.",
     "objetivos": ["Entender métricas essenciais", "Ler o dashboard da Tokto", "Criar plano de melhoria"],
-    "recursos": [{ "nome": "Guia de Métricas para Live Commerce", "tipo": "PDF", "url": "/tokens/guia-metricas.md" }]
+    "recursos": [{ "nome": "Guia de Métricas para Live Commerce", "tipo": "PDF", "url": "/recursos/guia-metricas" }]
   }
 ]
