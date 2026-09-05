@@ -151,10 +151,11 @@
     "Utilizar IA para filtrar e qualificar leads no Direct e WhatsApp",
     "Incluir o ensino de IA como um diferencial nas mentorias para lojistas"
   ],
-  "recursos": [
-    { "nome": "Biblioteca de 50 Prompts para Embaixadores Tokto", "tipo": "PDF", "url": "/recursos/prompts-embaixadores" },
-    { "nome": "Guia: Ferramentas de IA Essenciais para Criadores", "tipo": "PDF", "url": "/recursos/ferramentas-ia-criadores" },
-    { "nome": "Template: Fluxo de Automação de Conteúdo (1 vira 10)", "tipo": "PDF", "url": "/recursos/automacao-conteudo-criador" }
+      "recursos": [
+      { "nome": "Biblioteca de 50 Prompts para Embaixadores Tokto", "tipo": "PDF", "url": "/recursos/prompts-embaixadores" },
+      { "nome": "Guia: Ferramentas de IA Essenciais para Criadores", "tipo": "PDF", "url": "/recursos/ferramentas-ia-criadores" },
+      { "nome": "Template: Fluxo de Automação de Conteúdo (1 vira 10)", "tipo": "PDF", "url": "/recursos/automacao-conteudo-criador" },
+      { "nome": "Roteiro de Gravação: Live de Mentoria (45 min)", "tipo": "PDF", "url": "/recursos/roteiro-gravacao-mentoria" }
   ],
   "quiz": [
     {
