@@ -221,11 +221,11 @@
     "Usar Status e Listas de Transmissão com estratégia",
     "Integrar Instagram e WhatsApp no fluxo de vendas"
   ],
-  "recursos": [
-    { "nome": "10 Roteiros de Reels para Embaixadores Tokto", "tipo": "PDF", "url": "/recursos/roteiros-instagram" },
-    { "nome": "Guia: Stories que Convertem (Fórmula de 5 Passos)", "tipo": "PDF", "url": "/recursos/stories-que-convertem" },
-    { "nome": "Template: Catálogo Perfeito no WhatsApp", "tipo": "PDF", "url": "/recursos/catalogo-whatsapp" }
-  ],
+     "recursos": [
+      { "nome": "25 Roteiros de Vídeo Prontos para Embaixadores", "tipo": "PDF", "url": "/recursos/roteiros-embaixador" },
+      { "nome": "Guia: Stories que Convertem (Fórmula de 5 Passos)", "tipo": "PDF", "url": "/recursos/stories-que-convertem" },
+      { "nome": "Template: Catálogo Perfeito no WhatsApp", "tipo": "PDF", "url": "/recursos/catalogo-whatsapp" }
+    ],
   "quiz": [
     {
       "pergunta": "Qual é a fórmula do Story que converte?",
