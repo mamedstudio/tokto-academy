@@ -136,17 +136,74 @@
     ]
   },
   {
-    "id": "dia-4",
-    "titulo": "Superpoderes com IA",
-    "subtitulo": "Produtividade 10x com Inteligência Artificial",
-    "duracao": "2 horas",
-    "icone": "🤖",
-    "videoUrl": "",
-    "descricao": "Transforme IA em seu exército pessoal: crie roteiros, artes e legendas em minutos.",
-    "conteudo": "Você não precisa ser designer ou copywriter. A IA faz o trabalho pesado em segundos.",
-    "objetivos": ["Dominar prompts no ChatGPT", "Criar imagens com Canva AI", "Automatizar conteúdo"],
-    "recursos": [{ "nome": "Biblioteca de Prompts Tokto", "tipo": "PDF", "url": "/recursos/prompts-ia" }]
-  },
+  "id": "dia-4",
+  "titulo": "Superpoderes com IA",
+  "subtitulo": "Escalando sua Autoridade e Produção de Conteúdo",
+  "duracao": "2 horas",
+  "icone": "🤖",
+  "videoUrl": "",
+  "descricao": "Como o Embaixador Tokto usa a Inteligência Artificial para criar conteúdo viral, roteirizar mentorias e gerenciar sua comunidade de lojistas no piloto automático.",
+  "conteudo": "A IA COMO MULTIPLICADOR DE AUTORIDADE:\nA IA não tira a sua voz. Ela tira o trabalho braçal. Você foca na estratégia e na conexão com os lojistas; a IA cuida da execução.\n\nO QUE A IA FAZ PELO EMBAIXADOR:\n- Gerar 30 ideias de Reels para atrair lojistas em minutos.\n- Escrever roteiros completos para suas lives de mentoria.\n- Automatizar respostas no Direct para filtrar leads qualificados.\n- Criar planos de ação personalizados para seus lojistas mentorados.\n\nA FÓRMULA DO PROMPT PARA CRIADORES:\nPAPEL + CONTEXTO + TAREFA + FORMATO + TOM = CONTEÚDO VIRAL.\nExemplo: 'Aja como um estrategista de Live Commerce (Papel). Meu público são donos de lojas de rua que têm medo de tecnologia (Contexto). Crie 5 ganchos para Reels que quebrem essa objeção (Tarefa). Em tópicos curtos (Formato). Tom de autoridade com empatia (Tom).'\n\nFERRAMENTAS ESSENCIAIS PARA O INFLUENCER:\n- ChatGPT/Claude: Roteiros, ideias e estratégia.\n- Canva Magic Studio: Artes e thumbnails profissionais.\n- CapCut / Opus Clip: Edição de vídeo e clipes automáticos de lives.\n- ManyChat: Automação de Direct e filtragem de leads.\n\nAUTOMAÇÃO DE CONTEÚDO (1 VIRA 10):\n1. Faça sua live/mentoria gravada.\n2. Transcreva o áudio com IA.\n3. Peça para a IA extrair: 5 Reels, 3 Carrosséis, 1 Artigo.\n4. Resultado: 1 hora de gravação = 1 mês de conteúdo.\n\nENSINANDO O LOJISTA:\nParte do seu papel é levar a IA para o lojista. Crie 'Oficinas de IA para Varejo' como isca digital. Ensine o básico. Isso aumenta sua autoridade e o valor da sua mentoria Tokto.",
+  "objetivos": [
+    "Usar a IA para escalar a produção de conteúdo pessoal e atração de lojistas",
+    "Dominar a fórmula de prompts para criar roteiros de mentoria e posts virais",
+    "Implementar automação de conteúdo (transformar 1 live em 10 posts)",
+    "Utilizar IA para filtrar e qualificar leads no Direct e WhatsApp",
+    "Incluir o ensino de IA como um diferencial nas mentorias para lojistas"
+  ],
+  "recursos": [
+    { "nome": "Biblioteca de 50 Prompts para Embaixadores Tokto", "tipo": "PDF", "url": "/recursos/prompts-embaixadores" },
+    { "nome": "Guia: Ferramentas de IA Essenciais para Criadores", "tipo": "PDF", "url": "/recursos/ferramentas-ia-criadores" },
+    { "nome": "Template: Fluxo de Automação de Conteúdo (1 vira 10)", "tipo": "PDF", "url": "/recursos/automacao-conteudo-criador" }
+  ],
+  "quiz": [
+    {
+      "pergunta": "Qual é a principal vantagem da IA para o Embaixador Tokto?",
+      "opcoes": [
+        "Substituir completamente a necessidade de gravar vídeos",
+        "Eliminar o trabalho braçal de criação, permitindo focar na estratégia e conexão",
+        "Fazer as lives no lugar do influencer"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Na fórmula do prompt perfeito, o que representa o 'Contexto'?",
+      "opcoes": [
+        "O formato final do texto (ex: carrossel)",
+        "A descrição do público-alvo e do cenário (ex: lojistas com medo de tecnologia)",
+        "O tom de voz a ser utilizado"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "O que significa 'Automação de Conteúdo 1 vira 10' para o influencer?",
+      "opcoes": [
+        "Copiar o conteúdo de outros criadores",
+        "Transformar 1 conteúdo principal (como uma live) em 10 variações (reels, posts, artigos)",
+        "Postar o mesmo vídeo 10 vezes na semana"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Como a IA ajuda na gestão da comunidade de lojistas?",
+      "opcoes": [
+        "Respondendo todas as mensagens de forma genérica",
+        "Filtrando e qualificando leads no Direct antes de chegar ao influencer",
+        "Bloqueando lojistas que fazem muitas perguntas"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Por que o Embaixador deve ensinar IA para os lojistas?",
+      "opcoes": [
+        "Para que os lojistas façam o trabalho dele",
+        "Para aumentar sua própria autoridade e agregar valor à mentoria Tokto",
+        "Porque a Tokto obriga o influencer a dar aulas de programação"
+      ],
+      "respostaCorreta": 1
+    }
+  ]
+},
   {
     "id": "dia-5",
     "titulo": "WhatsApp & Automação",
