@@ -18,6 +18,12 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
     "checklist-pre-live": "checklist-pre-live.md",
     "frases-fechamento": "frases-fechamento.md",
     "linha-do-tempo-tokto": "linha-do-tempo-tokto.md",
+    "prompts-embaixadores": "prompts-embaixadores.md",
+    "ferramentas-ia-criadores": "ferramentas-ia-criadores.md",
+    "automacao-conteudo-criador": "automacao-conteudo-criador.md",
+    "guia-metricas": "guia-metricas.md",
+    "guia-whatsapp": "guia-whatsapp.md",
+    "calendario-divulgacao": "calendario-divulgacao.md",
   };
 
   const nomeArquivo = arquivoMap[slug];
@@ -45,7 +51,7 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
             </div>
             <div>
               <h1 className="text-xl font-bold text-white">Tokto Academy</h1>
-              <p className="text-sm text-gray-400">Imersão Glauber Palmeira</p>
+              <p className="text-sm text-gray-400">Imersão Tokto</p>
             </div>
           </a>
           <a href="/" className="text-sm text-gray-400 hover:text-[#FF6B00] transition-colors">
