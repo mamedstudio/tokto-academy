@@ -24,6 +24,7 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
     "guia-metricas": "guia-metricas.md",
     "guia-whatsapp": "guia-whatsapp.md",
     "calendario-divulgacao": "calendario-divulgacao.md",
+    "roteiro-gravacao-mentoria": "roteiro-gravacao-mentoria.md",
   };
 
   const nomeArquivo = arquivoMap[slug];
