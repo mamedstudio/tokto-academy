@@ -343,16 +343,73 @@
       }
     ]
   },
-  {
+    {
     "id": "dia-7",
-    "titulo": "Dados que Vendem",
-    "subtitulo": "Do Achismo à Ciência",
+    "titulo": "Vendas B2C e Collabs",
+    "subtitulo": "Ativando sua Audiência para Gerar Caixa Real",
     "duracao": "2 horas",
-    "icone": "📊",
+    "icone": "🤝",
     "videoUrl": "",
-    "descricao": "Aprenda a ler métricas, analisar resultados e melhorar 10% a cada live usando dados reais.",
-    "conteudo": "Venda é ciência. Aprenda a medir pico de audiência, taxa de conversão e CAC para escalar resultados.",
-    "objetivos": ["Entender métricas essenciais", "Ler o dashboard da Tokto", "Criar plano de melhoria"],
-    "recursos": [{ "nome": "Guia de Métricas para Live Commerce", "tipo": "PDF", "url": "/recursos/guia-metricas" }]
+    "descricao": "Como o Embaixador Tokto usa sua própria audiência para gerar vendas reais B2C para os lojistas, criando collabs poderosas que servem como prova social definitiva e abrem portas para mentorias e parcerias.",
+    "conteudo": "O PODER DA SUA AUDIÊNCIA B2C:\nVocê não apenas ensina o lojista a vender. Você usa sua audiência para vender POR ELE. Isso cria cases de sucesso inquestionáveis e facilita absurdamente a venda da sua mentoria.\n\nA LÓGICA DA COLLAB PERFEITA:\nEmbaixador traz audiência qualificada + Lojista oferece desconto exclusivo (CupomClic) = Venda garantida e exposição mútua. É uma equação que ninguém recusa.\n\nCOMO NEGOCIAR COM LOJISTAS:\nScript: 'Eu tenho X mil seguidores locais. Vamos criar um CupomClic exclusivo de 20% só para minha audiência neste fim de semana? Eu divulgo, você vende, nós dois ganhamos.'\n\nO CONTEÚDO QUE CONVERTE SEGUIDOR EM CLIENTE:\nVídeos de 'Vem comigo comprar', unboxing na loja, mostrando a negociação do desconto em tempo real. Humaniza a marca e gera urgência.\n\nO 'DIA DO EMBAIXADOR' NA LOJA:\nEstrutura de uma ação presencial: Live dentro da loja + QR Code gigante no balcão + oferta relâmpago válida apenas por 2 horas para quem está ao vivo.\n\nRASTREANDO O SUCESSO (A PROVA REAL):\nUse o relatório do CupomClic para mostrar ao lojista no dia seguinte: 'Trouxe 47 clientes novos e R$ 3.800 em vendas. Aqui está o comprovante.'\n\nMONETIZAÇÃO PARA O EMBAIXADOR:\nModelos: Valor fixo pela ação (publi), % de comissão sobre as vendas geradas pelo CupomClic específico, ou permuta estratégica de alto valor.\n\nSTORIES DE PROVA SOCIAL EM TEMPO REAL:\nFilmar a fila na loja, mostrar as notificações de venda caindo no celular do dono, repostar clientes usando o cupom. Isso valida a ação para futuros parceiros.\n\nEXPANDINDO PARA OUTRAS CIDADES:\nDocumente esse processo para treinar novos embaixadores locais, criando uma rede de vendas Tokto em todo o Brasil.\n\nPLANO DE AÇÃO: SUA PRIMEIRA COLLAB EM 7 DIAS:\nDia 1: Listar 5 lojistas. Dia 2: Abordagem. Dia 3: Criação do CupomClic. Dia 4-6: Divulgação. Dia 7: Ação e medição de resultados.",
+    "objetivos": [
+      "Estruturar e negociar collabs vencedoras com lojistas locais",
+      "Criar conteúdo B2C que converte seguidores em clientes na loja física",
+      "Executar o 'Dia do Embaixador' com ações presenciais e digitais integradas",
+      "Utilizar os dados do CupomClic como prova social para fechar novas parcerias",
+      "Definir modelos de monetização (fixo, comissão ou permuta) para o embaixador"
+    ],
+    "recursos": [
+      { "nome": "Script de Negociação de Collab com Lojistas", "tipo": "PDF", "url": "/recursos/script-negociacao-collab" },
+      { "nome": "Roteiro de Vídeo de Divulgação B2C (Para seus Seguidores)", "tipo": "PDF", "url": "/recursos/roteiro-video-divulgacao-b2c" },
+      { "nome": "Checklist: O 'Dia do Embaixador' na Loja Física", "tipo": "PDF", "url": "/recursos/checklist-evento-presencial" }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Qual é o principal argumento para convencer um lojista a fazer uma collab?",
+        "opcoes": [
+          "Pedir dinheiro adiantado sem garantia",
+          "Levar audiência qualificada e vendas mensuráveis via CupomClic, sem risco para ele",
+          "Exigir que ele mude toda a identidade visual da loja"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual a melhor forma de monetizar uma collab de sucesso como Embaixador?",
+        "opcoes": [
+          "Apenas permuta por produtos baratos",
+          "Valor fixo pela ação + % de comissão sobre as vendas rastreadas pelo cupom",
+          "Cobrar dos seguidores para assistir à live"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "O que fazer se o lojista disser que 'não tem margem para dar desconto'?",
+        "opcoes": [
+          "Desistir imediatamente",
+          "Mostrar que o desconto é um custo de aquisição de cliente novo (mais barato que anúncio) e que o volume compensa",
+          "Dizer que ele está errado e forçar a barra"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "O que é o 'Dia do Embaixador' na loja?",
+        "opcoes": [
+          "Um dia para folgar e não postar",
+          "Uma ação presencial com live na loja, QR Codes visíveis e oferta relâmpago exclusiva",
+          "Apenas tirar fotos para o feed sem interagir com clientes"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Por que os dados do CupomClic são essenciais após uma collab?",
+        "opcoes": [
+          "Para aumentar o preço da mentoria do nada",
+          "Para mostrar ao lojista a prova real de vendas e usar como case para fechar novos parceiros",
+          "Para esconder os resultados reais"
+        ],
+        "respostaCorreta": 1
+      }
+    ]
   }
 ]
