@@ -35,6 +35,7 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
     "script-negociacao-collab": "script-negociacao-collab.md",
     "roteiro-video-divulgacao-b2c": "roteiro-video-divulgacao-b2c.md",
     "checklist-evento-presencial": "checklist-evento-presencial.md",
+    "checklist-collab-digital": "checklist-collab-digital.md",
   };;
 
   const nomeArquivo = arquivoMap[slug];
