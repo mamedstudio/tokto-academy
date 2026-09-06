@@ -17,7 +17,7 @@ export default function Home() {
               </div>
             </div>
             <div className="text-sm text-gray-400">
-              7 Dias para Dominar o Live Commerce
+              7 dias + 1 módulo de encerramento e certificação
             </div>
           </div>
         </div>
@@ -25,13 +25,20 @@ export default function Home() {
 
       {/* Hero Section */}
       <div className="container mx-auto px-4 py-12">
-        <div className="text-center mb-12">
+        <div className="text-center mb-8">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             Bem-vindo à <span className="text-[#FF6B00]">Imersão Tokto Academy</span>
           </h2>
-          <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            7 Dias para Dominar o Live Commerce e a Inteligência Artificial
+          <p className="text-gray-400 text-lg max-w-3xl mx-auto">
+            Aprenda, em 7 dias, a planejar e executar sua primeira operação de live commerce usando Instagram, WhatsApp e inteligência artificial.
           </p>
+        </div>
+
+        {/* Para quem é */}
+        <div className="bg-[#1A1A1A] p-6 rounded-lg max-w-3xl mx-auto mb-12 border border-[#333]">
+          <p className="text-white font-semibold mb-3 text-lg">🎯 Para quem é esta imersão:</p>
+          <p className="text-gray-400 mb-2">Criadores de conteúdo, vendedores e afiliados que querem usar suas redes sociais para gerar vendas reais para lojistas e monetizar sua audiência.</p>
+          <p className="text-gray-500 text-sm mt-3">Ao final, você terá um roteiro de live, uma oferta estruturada, um plano de conteúdo, uma estratégia de divulgação e um plano de ação para atrair lojistas e gerar vendas.</p>
         </div>
 
         {/* Módulos Grid */}
@@ -49,7 +56,7 @@ export default function Home() {
                   </div>
                   <div className="flex-1">
                     <p className="text-xs font-semibold text-[#FF6B00] uppercase tracking-wider mb-1">
-                      Módulo {index + 1}
+                      {modulo.id === 'conclusao' ? 'Módulo Bônus' : `Módulo ${index + 1}`}
                     </p>
                     <h3 className="text-xl font-bold mb-2 group-hover:text-[#FF6B00] transition-colors">
                       {modulo.titulo}
@@ -68,7 +75,7 @@ export default function Home() {
                         </span>
                       )}
                       <span className="flex items-center gap-1">
-                        📚 {modulo.recursos.length} recursos
+                        📚 {modulo.recursos.length} {modulo.recursos.length === 1 ? 'recurso' : 'recursos'}
                       </span>
                     </div>
                   </div>
