@@ -408,8 +408,9 @@
           "Para mostrar ao lojista a prova real de vendas e usar como case para fechar novos parceiros",
           "Para esconder os resultados reais"
         ],
-        "respostaCorreta": 1
-          ,
+              "respostaCorreta": 1
+    }
+  },
   {
     "id": "conclusao",
     "titulo": "Próximos Passos e Certificação",
