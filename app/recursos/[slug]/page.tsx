@@ -32,6 +32,9 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
     "funil-embaixador": "funil-embaixador.md",
     "campanha-meta-ads-basica": "campanha-meta-ads-basica.md",
     "cronograma-lancamento-7-dias": "cronograma-lancamento-7-dias.md",
+    "script-negociacao-collab": "script-negociacao-collab.md",
+    "roteiro-video-divulgacao-b2c": "roteiro-video-divulgacao-b2c.md",
+    "checklist-evento-presencial": "checklist-evento-presencial.md",
   };;
 
   const nomeArquivo = arquivoMap[slug];
