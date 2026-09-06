@@ -360,10 +360,10 @@
       "Definir modelos de monetização (fixo, comissão ou permuta) para o embaixador"
     ],
     "recursos": [
-      { "nome": "Script de Negociação de Collab com Lojistas", "tipo": "PDF", "url": "/recursos/script-negociacao-collab" },
-      { "nome": "Roteiro de Vídeo de Divulgação B2C (Para seus Seguidores)", "tipo": "PDF", "url": "/recursos/roteiro-video-divulgacao-b2c" },
-      { "nome": "Checklist: O 'Dia do Embaixador' na Loja Física", "tipo": "PDF", "url": "/recursos/checklist-evento-presencial" }
-    ],
+  { "nome": "Script de Negociação de Collab com Lojistas", "tipo": "PDF", "url": "/recursos/script-negociacao-collab" },
+  { "nome": "Roteiro de Vídeo de Divulgação B2C (Para seus Seguidores)", "tipo": "PDF", "url": "/recursos/roteiro-video-divulgacao-b2c" },
+  { "nome": "Checklist: Executando uma Collab Digital de Sucesso", "tipo": "PDF", "url": "/recursos/checklist-collab-digital" }
+   ],
     "quiz": [
       {
         "pergunta": "Qual é o principal argumento para convencer um lojista a fazer uma collab?",
