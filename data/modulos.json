@@ -2,57 +2,48 @@
   {
     "id": "dia-1",
     "titulo": "O Novo Cenário do Varejo",
-    "subtitulo": "Do Colapso das Gigantes à Validação do Live Shopping",
+    "subtitulo": "Paridade de Armas no Live Commerce",
     "duracao": "2 horas",
-    "icone": "🌍",
+    "icone": "",
     "videoUrl": "",
-    "descricao": "Entenda por que a Magalu se rendeu ao Mercado Livre, por que o live shopping é o futuro, e como o Varejo de Rua tem uma vantagem injusta: o Hiperlocal.",
-    "conteudo": "O COLAPSO DAS GIGANTES: A notícia recente de que a Magalu fez parceria com o Mercado Livre não é uma estratégia de crescimento - é sobrevivência. Se a 'rainha do digital' brasileiro precisou se render ao maior marketplace da América Latina, isso é um sinal claro: o modelo tradicional de marketplace está em crise.\n\nA VALIDAÇÃO DO LIVE SHOPPING: Enquanto isso, o Mercado Livre acaba de lançar o Mercado Live. Isso não é 'modinha'. É a confirmação de que entretenimento + conveniência é o futuro do varejo.\n\nA ASSIMETRIA MORTAL: Enquanto as gigantes sabem o que o cliente clicou e comprou, o lojista de rua não sabe nem quem entrou na loja hoje.\n\nO PODER DO HIPERLOCAL: Mas você tem algo que eles nunca terão: confiança, comunidade, entrega em 10 minutos e o 'olho no olho'.\n\nA MISSÃO TOKTO (PARIDADE DE ARMAS): A Tokto veio para dar ao lojista de rua as mesmas ferramentas tecnológicas que os gigantes usam (CupomClic, Live Shopping, dados), democratizando o acesso e nivelando o jogo.",
+    "descricao": "Entenda por que o varejo de rua está perdendo para as gigantes digitais e como o CupomClic nivela o jogo.",
+    "conteudo": "O VAREJO DE RUA ESTÁ EM CRISE:\n\nEnquanto grandes plataformas como Shopee, Mercado Livre e Amazon dominam o comércio digital, o lojista de rua fica refém do movimento da porta, do clima e da economia local.\n\nA PARIDADE DE ARMAS:\nO CupomClic da Tokto é a ferramenta que dá ao pequeno lojista as mesmas armas das gigantes: cupons de desconto rastreáveis, QR Codes, pagamento via Pix e relatórios de vendas.\n\nO QUE MUDOU:\n- O cliente compara preços no celular antes de entrar na loja\n- Lives de vendas faturam mais que shoppings inteiros\n- WhatsApp virou canal de vendas, não só atendimento\n- Pix eliminou a barreira do pagamento digital\n\nA OPORTUNIDADE:\nO lojista que adotar o CupomClic agora vai estar 5 anos à frente da concorrência local. É a ponte entre o físico e o digital.",
     "objetivos": [
-      "Compreender o colapso do modelo tradicional de marketplace",
-      "Entender a validação do Live Shopping como estratégia definitiva",
-      "Identificar a vantagem competitiva do Hiperlocal",
-      "Internalizar a Tokto como ferramenta de paridade de armas"
+      "Compreender o cenário atual do varejo físico vs digital",
+      "Identificar as dores reais do lojista de rua",
+      "Entender o conceito de Paridade de Armas com o CupomClic",
+      "Reconhecer a urgência da transformação digital no varejo local"
     ],
     "recursos": [
-      { "nome": "Notícia: Magalu faz parceria com Mercado Livre", "tipo": "LINK", "url": "https://braziljournal.com/magalu-faz-parceria-com-o-mercado-livre-para-vender-seus-produtos/" },
-      { "nome": "Notícia: Mercado Livre lança Live Shopping", "tipo": "LINK", "url": "https://exame.com/marketing/mercado-livre-lanca-live-shopping-e-transforma-app-em-canal-de-compras-ao-vivo/" },
-      { "nome": "Artigo: O que é Paridade de Armas no Varejo 4.0", "tipo": "PDF", "url": "/recursos/paridade-armas" }
+      { "nome": "Artigo: Paridade de Armas no Varejo", "tipo": "PDF", "url": "/recursos/paridade-armas" },
+      { "nome": "Manifesto Tokto: O Futuro é Local", "tipo": "PDF", "url": "/recursos/manifesto" },
+      { "nome": "Case: Loja que Faturou R$ 47 Mil em uma Live", "tipo": "PDF", "url": "/recursos/case-sucesso" }
     ],
     "quiz": [
       {
-        "pergunta": "Por que a parceria entre Magalu e Mercado Livre é um sinal de alerta?",
+        "pergunta": "Qual é o principal problema do varejo de rua hoje?",
         "opcoes": [
-          "Porque mostra que até as gigantes precisam de alianças para sobreviver",
-          "Porque o Mercado Livre está comprando todas as lojas",
-          "Porque a Magalu está crescendo demais"
-        ],
-        "respostaCorreta": 0
-      },
-      {
-        "pergunta": "O que o lançamento do Mercado Live valida?",
-        "opcoes": [
-          "Que live shopping é apenas uma modinha passageira",
-          "Que entretenimento + conveniência é o futuro do varejo",
-          "Que apenas marketplaces gigantes podem fazer lives"
+          "Falta de produtos bons",
+          "Dependência exclusiva do movimento físico da porta",
+          "Preços muito altos"
         ],
         "respostaCorreta": 1
       },
       {
-        "pergunta": "Qual é a maior vantagem do varejo de rua (Hiperlocal)?",
+        "pergunta": "O que é 'Paridade de Armas' no contexto Tokto?",
         "opcoes": [
-          "Ter preços sempre mais baixos que a China",
-          "Confiança, relacionamento com a comunidade e atendimento 'olho no olho'",
-          "Possuir um aplicativo próprio com milhões de downloads"
+          "Dar armas para lojistas se defenderem",
+          "Dar ao pequeno lojista as mesmas ferramentas digitais das grandes plataformas",
+          "Proibir grandes empresas de vender online"
         ],
         "respostaCorreta": 1
       },
       {
-        "pergunta": "Qual é o conceito de 'Paridade de Armas' da Tokto?",
+        "pergunta": "Qual ferramenta da Tokto permite vendas 24h sem app?",
         "opcoes": [
-          "Copiar exatamente o que a Amazon faz",
-          "Democratizar o acesso à tecnologia de ponta, nivelando o jogo para o lojista de rua",
-          "Proibir o uso de marketplaces na cidade"
+          "Site próprio",
+          "CupomClic com QR Code e Pix",
+          "Aplicativo de delivery"
         ],
         "respostaCorreta": 1
       }
@@ -61,17 +52,17 @@
   {
     "id": "dia-2",
     "titulo": "CupomClic na Veia",
-    "subtitulo": "Da Evolução Tokto à Solução Definitiva",
+    "subtitulo": "Sua Primeira Venda em 15 Minutos",
     "duracao": "2 horas",
-    "icone": "⚡",
+    "icone": "🎟️",
     "videoUrl": "",
-    "descricao": "Acompanhe a jornada de 11 anos da Tokto: de 2015 a 2026, passando por 4 MVPs até chegar no CupomClic.",
-    "conteudo": "A JORNADA DE 11 ANOS - MVPs que Nos Ensinaram o Caminho:\n\n2015 - A GÊNESE NA TV: Programa 'Din Din'. Aprendizado: Valorização do varejo físico, mas difícil de mensurar.\n\n2020 - A REVOLUÇÃO DIGITAL: Aplicativo SAAS. Aprendizado: Desconto agressivo atrai, mas não fideliza.\n\n2023 - BOPIS E A FUSÃO: Compra online, busca na loja. Aprendizado: A experiência física é insubstituível.\n\n2024-2025 - ASCENSÃO DO LIVE COMMERCE: Magalu + Mercado Livre, Mercado Live. Tendência confirmada.\n\n2026 - O ECOSSISTEMA COMPLETO: IATokto + CupomClic. Links clicáveis que funcionam DENTRO das plataformas. Venda em 30 segundos, sem sair do Instagram/WhatsApp.\n\nPOR QUE CUPOMCLIC É A RESPOSTA:\n✅ Funciona ONDE o cliente está\n✅ Sem atrito (não precisa sair da plataforma)\n✅ Sem app para baixar\n✅ Com dados reais de conversão\n✅ Integrado com Pix",
+    "descricao": "Aprenda na prática como criar, configurar e usar o CupomClic para gerar suas primeiras vendas digitais.",
+    "conteudo": "O QUE É O CUPOMCLIC:\nÉ um cupom de desconto digital com QR Code único. O cliente escaneia, vê o desconto, paga via Pix. Pronto. Venda feita em 30 segundos.\n\nCOMO CRIAR SEU PRIMEIRO CUPOMCLIC:\n1. Abra o app da Tokto\n2. Clique em 'Criar CupomClic'\n3. Tire foto do produto (celular mesmo, com boa luz)\n4. Defina nome, preço original e desconto\n5. Configure validade e quantidade limitada\n6. Gere o QR Code\n\nONDE USAR O QR CODE:\n- Vitrine da loja (vende 24h)\n- Stories do Instagram (com sticker de link)\n- WhatsApp (catálogo e status)\n- Lives (fixado no chat)\n- Sacolas e cartões de visita\n- Feiras e eventos\n\nA FÓRMULA DO CUPOM QUE CONVERTE:\n- Desconto específico (30%, não 'até 50%')\n- Prazo curto (válido hoje, até amanhã)\n- Quantidade limitada (só 10 primeiros)\n\nPOR QUE PIX?\nSem taxa, cai na hora, 24/7. O dinheiro está na sua conta antes do cliente sair da loja.",
     "objetivos": [
-      "Compreender a evolução histórica da Tokto através de 4 MVPs",
-      "Entender como cada MVP gerou aprendizados cruciais",
-      "Identificar por que o CupomClic é a síntese de 11 anos de experiência",
-      "Reconhecer que a Tokto democratiza tendências do varejo global"
+      "Criar o primeiro CupomClic do zero",
+      "Configurar desconto, validade e quantidade limitada",
+      "Identificar os melhores pontos para distribuir o QR Code",
+      "Entender a vantagem do Pix sobre outras formas de pagamento"
     ],
     "recursos": [
       { "nome": "Linha do Tempo Completa: 2015-2026", "tipo": "PDF", "url": "/recursos/linha-do-tempo-tokto" },
@@ -81,18 +72,30 @@
     ],
     "quiz": [
       {
-        "pergunta": "Quantos MVPs a Tokto desenvolveu de 2015 a 2026?",
-        "opcoes": ["2 MVPs", "4 MVPs", "10 MVPs"],
+        "pergunta": "Qual é o primeiro passo para criar um CupomClic?",
+        "opcoes": [
+          "Contratar um designer",
+          "Abrir o app da Tokto e clicar em 'Criar CupomClic'",
+          "Criar um site próprio"
+        ],
         "respostaCorreta": 1
       },
       {
-        "pergunta": "Qual foi o principal aprendizado do MVP de 2020 (Aplicativo)?",
-        "opcoes": ["Desconto agressivo atrai, mas não fideliza", "TV ainda é o melhor canal", "Loja física não tem mais futuro"],
-        "respostaCorreta": 0
+        "pergunta": "Qual elemento NÃO faz parte da fórmula do cupom que converte?",
+        "opcoes": [
+          "Desconto específico (ex: 30%)",
+          "Prazo longo (válido por 6 meses)",
+          "Quantidade limitada"
+        ],
+        "respostaCorreta": 1
       },
       {
-        "pergunta": "Qual é a principal vantagem do CupomClic?",
-        "opcoes": ["Exige que o cliente saia do Instagram", "Link clicável que funciona DENTRO do Instagram/WhatsApp", "Só funciona em computadores"],
+        "pergunta": "Por que o Pix é ideal para o CupomClic?",
+        "opcoes": [
+          "Porque tem taxa baixa",
+          "Porque cai na hora, sem taxa, 24/7",
+          "Porque só funciona em horário comercial"
+        ],
         "respostaCorreta": 1
       }
     ]
@@ -100,17 +103,17 @@
   {
     "id": "dia-3",
     "titulo": "Mestre das Lives",
-    "subtitulo": "Oratória de Elite e Gatilhos Mentais",
+    "subtitulo": "Venda R$ 5.000 em 30 Minutos",
     "duracao": "2 horas",
-    "icone": "🎙️",
+    "icone": "🎥",
     "videoUrl": "",
-    "descricao": "Técnicas avançadas de apresentação ao vivo baseadas nos maiores cases de live commerce do mundo.",
-    "conteudo": "A LIVE COMO FILIAL DIGITAL: A live não é entretenimento, é sua nova filial de vendas.\n\nA ESTRUTURA DE 3 ATOS:\n1. Abertura (0-5 min): Gancho forte, promessa e aquecimento.\n2. Desenvolvimento (5-25 min): Apresentação, demonstração e gatilhos mentais.\n3. Fechamento (25-30 min): Revelação da oferta, liberação do link do CupomClic e escassez real.\n\nOS 3 GATILHOS DE OURO:\n- Escassez e Urgência: 'Só tenho 3 unidades e esse cupom expira em 10 minutos'.\n- Prova Social: Ler depoimentos, mostrar clientes usando.\n- Transformação: Não venda as especificações, venda a versão melhorada da vida do cliente.\n\nA SINCRONIA PERFEITA: 1) Criar desejo, 2) Anunciar a oferta, 3) Soltar o link do CupomClic, 4) Contagem regressiva.",
+    "descricao": "O método completo para estruturar, executar e monetizar lives de vendas que convertem de verdade.",
+    "conteudo": "LIVE COMMERCE NÃO É SHOW. É VENDA:\n\nUma live bem estruturada com 100 pessoas pode faturar mais que uma loja física em um dia inteiro.\n\nOS 3 PILARES DE UMA LIVE QUE VENDE:\n1. Preparação (não improvise!)\n2. Gatilhos mentais (escassez, urgência, prova social)\n3. Chamada para ação clara (CupomClic fixado no chat)\n\nESTRUTURA DE UMA LIVE DE 30 MINUTOS:\n- 0-5 min: Abertura energética + promessa\n- 5-15 min: Ensine algo útil (não venda ainda!)\n- 15-30 min: Mostre os produtos + solte os CupomClics\n- 30-40 min: Tire dúvidas + última chamada\n- 40-45 min: Encerramento + agradecimento\n\nGATILHOS MENTAIS QUE FUNCIONAM:\n- Escassez: 'Só tenho 3 unidades'\n- Urgência: 'Esse cupom vale só até amanhã'\n- Prova Social: 'Já vendemos 47 unidades hoje'\n\nPREPARAÇÃO TÉCNICA:\n- Internet: mínimo 10 Mbps de upload\n- Luz: de frente, nunca atrás\n- Som: microfone de lapela ou ambiente silencioso\n- Celular: carregado e no modo 'Não Perturbe'\n\nO SEGREDO: Live não é sobre você ser perfeito. É sobre você ser ÚTIL.",
     "objetivos": [
-      "Dominar a estrutura de 3 atos de uma live de alta conversão",
-      "Aplicar os 3 gatilhos mentais principais",
-      "Executar a sincronia perfeita entre desejo e liberação do link do CupomClic",
-      "Montar um setup técnico profissional com custo zero ou muito baixo"
+      "Estruturar uma live de vendas do início ao fim",
+      "Aplicar gatilhos mentais para aumentar conversão",
+      "Configurar o setup técnico mínimo para uma live profissional",
+      "Usar o CupomClic durante a live para vendas em tempo real"
     ],
     "recursos": [
       { "nome": "Template: Roteiro de Live de 30 Minutos", "tipo": "PDF", "url": "/recursos/roteiro-live-30min" },
@@ -119,162 +122,174 @@
     ],
     "quiz": [
       {
-        "pergunta": "Qual é a principal função da 'Abertura' (Ato 1) em uma live?",
-        "opcoes": ["Ficar esperando as pessoas entrarem", "Apresentar um gancho forte, fazer uma promessa e aquecer a audiência", "Já começar vendendo o produto mais caro"],
+        "pergunta": "Qual é a duração ideal para uma live de vendas iniciante?",
+        "opcoes": [
+          "2 horas ou mais",
+          "30 a 45 minutos",
+          "10 minutos"
+        ],
         "respostaCorreta": 1
       },
       {
-        "pergunta": "Sobre o gatilho da escassez, qual é a regra de ouro?",
-        "opcoes": ["Inventar números para pressionar", "A escassez deve ser sempre real e verdadeira", "Nunca usar escassez"],
+        "pergunta": "O que fazer nos primeiros 5 minutos de live?",
+        "opcoes": [
+          "Já começar vendendo o produto mais caro",
+          "Abertura energética + promessa do que será entregue",
+          "Ficar esperando as pessoas entrarem"
+        ],
         "respostaCorreta": 1
       },
       {
-        "pergunta": "Qual é a sequência correta para usar o CupomClic na live?",
-        "opcoes": ["Soltar o link no primeiro minuto", "Criar desejo -> Anunciar a oferta -> Soltar o link -> Contagem regressiva", "Falar o preço e encerrar"],
+        "pergunta": "Qual gatilho mental é usado ao dizer 'Só tenho 3 unidades'?",
+        "opcoes": [
+          "Prova social",
+          "Escassez",
+          "Reciprocidade"
+        ],
         "respostaCorreta": 1
       }
     ]
   },
   {
-  "id": "dia-4",
-  "titulo": "Superpoderes com IA",
-  "subtitulo": "Escalando sua Autoridade e Produção de Conteúdo",
-  "duracao": "2 horas",
-  "icone": "🤖",
-  "videoUrl": "",
-  "descricao": "Como o Embaixador Tokto usa a Inteligência Artificial para criar conteúdo viral, roteirizar mentorias e gerenciar sua comunidade de lojistas no piloto automático.",
-  "conteudo": "A IA COMO MULTIPLICADOR DE AUTORIDADE:\nA IA não tira a sua voz. Ela tira o trabalho braçal. Você foca na estratégia e na conexão com os lojistas; a IA cuida da execução.\n\nO QUE A IA FAZ PELO EMBAIXADOR:\n- Gerar 30 ideias de Reels para atrair lojistas em minutos.\n- Escrever roteiros completos para suas lives de mentoria.\n- Automatizar respostas no Direct para filtrar leads qualificados.\n- Criar planos de ação personalizados para seus lojistas mentorados.\n\nA FÓRMULA DO PROMPT PARA CRIADORES:\nPAPEL + CONTEXTO + TAREFA + FORMATO + TOM = CONTEÚDO VIRAL.\nExemplo: 'Aja como um estrategista de Live Commerce (Papel). Meu público são donos de lojas de rua que têm medo de tecnologia (Contexto). Crie 5 ganchos para Reels que quebrem essa objeção (Tarefa). Em tópicos curtos (Formato). Tom de autoridade com empatia (Tom).'\n\nFERRAMENTAS ESSENCIAIS PARA O INFLUENCER:\n- ChatGPT/Claude: Roteiros, ideias e estratégia.\n- Canva Magic Studio: Artes e thumbnails profissionais.\n- CapCut / Opus Clip: Edição de vídeo e clipes automáticos de lives.\n- ManyChat: Automação de Direct e filtragem de leads.\n\nAUTOMAÇÃO DE CONTEÚDO (1 VIRA 10):\n1. Faça sua live/mentoria gravada.\n2. Transcreva o áudio com IA.\n3. Peça para a IA extrair: 5 Reels, 3 Carrosséis, 1 Artigo.\n4. Resultado: 1 hora de gravação = 1 mês de conteúdo.\n\nENSINANDO O LOJISTA:\nParte do seu papel é levar a IA para o lojista. Crie 'Oficinas de IA para Varejo' como isca digital. Ensine o básico. Isso aumenta sua autoridade e o valor da sua mentoria Tokto.",
-  "objetivos": [
-    "Usar a IA para escalar a produção de conteúdo pessoal e atração de lojistas",
-    "Dominar a fórmula de prompts para criar roteiros de mentoria e posts virais",
-    "Implementar automação de conteúdo (transformar 1 live em 10 posts)",
-    "Utilizar IA para filtrar e qualificar leads no Direct e WhatsApp",
-    "Incluir o ensino de IA como um diferencial nas mentorias para lojistas"
-  ],
-      "recursos": [
+    "id": "dia-4",
+    "titulo": "Superpoderes com IA",
+    "subtitulo": "Escalando sua Autoridade e Produção de Conteúdo",
+    "duracao": "2 horas",
+    "icone": "🤖",
+    "videoUrl": "",
+    "descricao": "Como o Embaixador Tokto usa a Inteligência Artificial para criar conteúdo viral, roteirizar mentorias e gerenciar sua comunidade de lojistas no piloto automático.",
+    "conteudo": "A IA COMO MULTIPLICADOR DE AUTORIDADE:\nA IA não tira a sua voz. Ela tira o trabalho braçal. Você foca na estratégia e na conexão com os lojistas; a IA cuida da execução.\n\nO QUE A IA FAZ PELO EMBAIXADOR:\n- Gerar 30 ideias de Reels para atrair lojistas em minutos.\n- Escrever roteiros completos para suas lives de mentoria.\n- Automatizar respostas no Direct para filtrar leads qualificados.\n- Criar planos de ação personalizados para seus lojistas mentorados.\n\nA FÓRMULA DO PROMPT PARA CRIADORES:\nPAPEL + CONTEXTO + TAREFA + FORMATO + TOM = CONTEÚDO VIRAL.\nExemplo: 'Aja como um estrategista de Live Commerce (Papel). Meu público são donos de lojas de rua que têm medo de tecnologia (Contexto). Crie 5 ganchos para Reels que quebrem essa objeção (Tarefa). Em tópicos curtos (Formato). Tom de autoridade com empatia (Tom).'\n\nFERRAMENTAS ESSENCIAIS PARA O INFLUENCER:\n- ChatGPT/Claude: Roteiros, ideias e estratégia.\n- Canva Magic Studio: Artes e thumbnails profissionais.\n- CapCut / Opus Clip: Edição de vídeo e clipes automáticos de lives.\n- ManyChat: Automação de Direct e filtragem de leads.\n\nAUTOMAÇÃO DE CONTEÚDO (1 VIRA 10):\n1. Faça sua live/mentoria gravada.\n2. Transcreva o áudio com IA.\n3. Peça para a IA extrair: 5 Reels, 3 Carrosséis, 1 Artigo.\n4. Resultado: 1 hora de gravação = 1 mês de conteúdo.\n\nENSINANDO O LOJISTA:\nParte do seu papel é levar a IA para o lojista. Crie 'Oficinas de IA para Varejo' como isca digital. Ensine o básico. Isso aumenta sua autoridade e o valor da sua mentoria Tokto.",
+    "objetivos": [
+      "Usar a IA para escalar a produção de conteúdo pessoal e atração de lojistas",
+      "Dominar a fórmula de prompts para criar roteiros de mentoria e posts virais",
+      "Implementar automação de conteúdo (transformar 1 live em 10 posts)",
+      "Utilizar IA para filtrar e qualificar leads no Direct e WhatsApp",
+      "Incluir o ensino de IA como um diferencial nas mentorias para lojistas"
+    ],
+    "recursos": [
       { "nome": "Biblioteca de 50 Prompts para Embaixadores Tokto", "tipo": "PDF", "url": "/recursos/prompts-embaixadores" },
       { "nome": "Guia: Ferramentas de IA Essenciais para Criadores", "tipo": "PDF", "url": "/recursos/ferramentas-ia-criadores" },
       { "nome": "Template: Fluxo de Automação de Conteúdo (1 vira 10)", "tipo": "PDF", "url": "/recursos/automacao-conteudo-criador" },
       { "nome": "Roteiro de Gravação: Live de Mentoria (45 min)", "tipo": "PDF", "url": "/recursos/roteiro-gravacao-mentoria" }
-  ],
-  "quiz": [
-    {
-      "pergunta": "Qual é a principal vantagem da IA para o Embaixador Tokto?",
-      "opcoes": [
-        "Substituir completamente a necessidade de gravar vídeos",
-        "Eliminar o trabalho braçal de criação, permitindo focar na estratégia e conexão",
-        "Fazer as lives no lugar do influencer"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Na fórmula do prompt perfeito, o que representa o 'Contexto'?",
-      "opcoes": [
-        "O formato final do texto (ex: carrossel)",
-        "A descrição do público-alvo e do cenário (ex: lojistas com medo de tecnologia)",
-        "O tom de voz a ser utilizado"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "O que significa 'Automação de Conteúdo 1 vira 10' para o influencer?",
-      "opcoes": [
-        "Copiar o conteúdo de outros criadores",
-        "Transformar 1 conteúdo principal (como uma live) em 10 variações (reels, posts, artigos)",
-        "Postar o mesmo vídeo 10 vezes na semana"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Como a IA ajuda na gestão da comunidade de lojistas?",
-      "opcoes": [
-        "Respondendo todas as mensagens de forma genérica",
-        "Filtrando e qualificando leads no Direct antes de chegar ao influencer",
-        "Bloqueando lojistas que fazem muitas perguntas"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Por que o Embaixador deve ensinar IA para os lojistas?",
-      "opcoes": [
-        "Para que os lojistas façam o trabalho dele",
-        "Para aumentar sua própria autoridade e agregar valor à mentoria Tokto",
-        "Porque a Tokto obriga o influencer a dar aulas de programação"
-      ],
-      "respostaCorreta": 1
-    }
-  ]
-},
+    ],
+    "quiz": [
+      {
+        "pergunta": "Qual é a principal vantagem da IA para o Embaixador Tokto?",
+        "opcoes": [
+          "Substituir completamente a necessidade de gravar vídeos",
+          "Eliminar o trabalho braçal de criação, permitindo focar na estratégia e conexão",
+          "Fazer as lives no lugar do influencer"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Na fórmula do prompt perfeito, o que representa o 'Contexto'?",
+        "opcoes": [
+          "O formato final do texto (ex: carrossel)",
+          "A descrição do público-alvo e do cenário (ex: lojistas com medo de tecnologia)",
+          "O tom de voz a ser utilizado"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "O que significa 'Automação de Conteúdo 1 vira 10' para o influencer?",
+        "opcoes": [
+          "Copiar o conteúdo de outros criadores",
+          "Transformar 1 conteúdo principal (como uma live) em 10 variações (reels, posts, artigos)",
+          "Postar o mesmo vídeo 10 vezes na semana"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Como a IA ajuda na gestão da comunidade de lojistas?",
+        "opcoes": [
+          "Respondendo todas as mensagens de forma genérica",
+          "Filtrando e qualificando leads no Direct antes de chegar ao influencer",
+          "Bloqueando lojistas que fazem muitas perguntas"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Por que o Embaixador deve ensinar IA para os lojistas?",
+        "opcoes": [
+          "Para que os lojistas façam o trabalho dele",
+          "Para aumentar sua própria autoridade e agregar valor à mentoria Tokto",
+          "Porque a Tokto obriga o influencer a dar aulas de programação"
+        ],
+        "respostaCorreta": 1
+      }
+    ]
+  },
   {
-  "id": "dia-5",
-  "titulo": "Conteúdo que Atrai Lojistas",
-  "subtitulo": "Instagram & WhatsApp como Máquinas de Autoridade",
-  "duracao": "2 horas",
-  "icone": "📱",
-  "videoUrl": "",
-  "descricao": "Como o Embaixador Tokto cria conteúdo no Instagram e WhatsApp para atrair lojistas, construir autoridade e converter em mentorias e vendas do CupomClic.",
-  "conteudo": "POR QUE CRIAR CONTEÚDO NO INSTAGRAM?\nSeu conteúdo é sua vitrine 24h. O Embaixador Tokto não precisa de loja física. Seu Instagram É a loja.\n\nOS 3 PILARES DO CONTEÚDO QUE ATRAI:\n1. Educação: Ensine algo útil (ex: '3 erros que matam sua live')\n2. Autoridade: Mostre que você sabe (ex: cases, números, resultados)\n3. Prova Social: Depoimentos reais (ex: 'Lojista X vendeu R$ 47 mil')\nTodo vídeo deve ter pelo menos 1 desses pilares.\n\nCOMO USAR OS 25 ROTEIROS PRONTOS:\n- Dia 1-10: Dicas gerais de vendas (atração ampla)\n- Dia 11-25: Dicas específicas de CupomClic (atração qualificada)\n- Frequência: 1 vídeo por dia, no horário de pico\n- Duração: 30-60 segundos cada\nConsistência > Perfeição. Melhor postar todo dia do que postar perfeito uma vez por semana.\n\nGATILHOS MENTAIS NOS VÍDEOS:\n- Escassez: 'Só tenho 3 unidades'\n- Urgência: 'Válido até amanhã'\n- Prova Social: 'Já vendemos 47 unidades'\n- Autoridade: 'Método que já ajudou 100+ lojistas'\nUse pelo menos 1 gatilho em cada vídeo. Isso aumenta conversão em 40%.\n\nCOMO MENCIONAR O CUPOMCLIC NATURALMENTE:\n❌ 'Compre o CupomClic agora!'\n✅ 'O lojista que usa isso vende 24h por dia'\n❌ 'É a melhor plataforma!'\n✅ 'Funciona assim: escaneou, clicou, comprou'\nMostre o benefício, não o produto. O CupomClic é a solução, não o protagonista.\n\nSTORIES VS. REELS:\n- Reels: Atração (alcança pessoas novas)\n- Stories: Conversão (vende para quem já te segue)\n- Feed: Autoridade (mostra consistência)\n- Lives: Conexão (gera confiança profunda)\nUse Reels para atrair, Stories para vender.\n\nCOMO RESPONDER COMENTÁRIOS E CONVERTER:\n1. Responda rápido (nas primeiras 2 horas)\n2. Faça uma pergunta (ex: 'Você tem loja física?')\n3. Convide para o direct (ex: 'Te mando o passo a passo no direct')\nComentário é lead quente. Não deixe esfriar.\n\nMÉTRICAS QUE IMPORTAM:\n- Taxa de engajamento: (likes + comentários) / views\n- Leads gerados: Quantos comentaram 'QUERO'?\n- Conversão em direct: Quantos foram pro direct?\n- Vendas fechadas: Quantos compraram a mentoria?\n1.000 views com 10 leads > 10.000 views com 0 leads.\n\nINTEGRAÇÃO INSTAGRAM → WHATSAPP:\n1. Instagram: Reels atrai → Story educa → Link leva ao WhatsApp\n2. WhatsApp: Catálogo apresenta → Status aquece → CupomClic converte\n3. Resultado: Cliente vem pelo Instagram, compra pelo WhatsApp\n\nPLANO DE AÇÃO: 25 DIAS DE CONTEÚDO:\n- Semana 1: Poste 1 vídeo por dia (roteiros 1-7)\n- Semana 2: Poste 1 vídeo por dia (roteiros 8-14)\n- Semana 3: Poste 1 vídeo por dia (roteiros 15-21)\n- Semana 4: Poste 1 vídeo por dia (roteiros 22-25) + análise de resultados\nEm 25 dias, você terá 25 vídeos no ar construindo sua autoridade.",
-  "objetivos": [
-    "Criar conteúdo consistente no Instagram para atrair lojistas",
-    "Usar os 25 roteiros prontos para construir autoridade em 25 dias",
-    "Aplicar gatilhos mentais nos vídeos para aumentar conversão",
-    "Mencionar o CupomClic de forma natural e estratégica",
-    "Integrar Instagram e WhatsApp no fluxo de vendas"
-  ],
-  "recursos": [
-    { "nome": "25 Roteiros de Vídeo Prontos para Embaixadores", "tipo": "PDF", "url": "/recursos/roteiros-embaixador" },
-    { "nome": "Guia: Stories que Convertem (Fórmula de 5 Passos)", "tipo": "PDF", "url": "/recursos/stories-que-convertem" },
-    { "nome": "Template: Catálogo Perfeito no WhatsApp", "tipo": "PDF", "url": "/recursos/catalogo-whatsapp" }
-  ],
-  "quiz": [
-    {
-      "pergunta": "Quais são os 3 pilares do conteúdo que atrai lojistas?",
-      "opcoes": [
-        "Views, likes e compartilhamentos",
-        "Educação, Autoridade e Prova Social",
-        "Reels, Stories e Feed"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Qual é a frequência ideal de postagem para construir autoridade?",
-      "opcoes": [
-        "1 vídeo perfeito por semana",
-        "1 vídeo por dia, mesmo que simples",
-        "3 vídeos por dia"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Como mencionar o CupomClic nos vídeos sem parecer vendedor?",
-      "opcoes": [
-        "Dizer 'Compre o CupomClic agora!'",
-        "Mostrar o benefício: 'O lojista que usa isso vende 24h por dia'",
-        "Não mencionar o CupomClic"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Qual métrica é mais importante que views?",
-      "opcoes": [
-        "Número de seguidores",
-        "Leads gerados (comentários 'QUERO')",
-        "Número de likes"
-      ],
-      "respostaCorreta": 1
-    },
-    {
-      "pergunta": "Qual é o fluxo perfeito de vendas Instagram → WhatsApp?",
-      "opcoes": [
-        "Instagram vende direto, WhatsApp não é necessário",
-        "Reels atrai → Story educa → WhatsApp converte com CupomClic",
-        "WhatsApp atrai, Instagram vende"
-      ],
-      "respostaCorreta": 1
-    }
-  ]
-},
-    {
+    "id": "dia-5",
+    "titulo": "Conteúdo que Atrai Lojistas",
+    "subtitulo": "Instagram & WhatsApp como Máquinas de Autoridade",
+    "duracao": "2 horas",
+    "icone": "",
+    "videoUrl": "",
+    "descricao": "Como o Embaixador Tokto cria conteúdo no Instagram e WhatsApp para atrair lojistas, construir autoridade e converter em mentorias e vendas do CupomClic.",
+    "conteudo": "POR QUE CRIAR CONTEÚDO NO INSTAGRAM?\nSeu conteúdo é sua vitrine 24h. O Embaixador Tokto não precisa de loja física. Seu Instagram É a loja.\n\nOS 3 PILARES DO CONTEÚDO QUE ATRAI:\n1. Educação: Ensine algo útil (ex: '3 erros que matam sua live')\n2. Autoridade: Mostre que você sabe (ex: cases, números, resultados)\n3. Prova Social: Depoimentos reais (ex: 'Lojista X vendeu R$ 47 mil')\nTodo vídeo deve ter pelo menos 1 desses pilares.\n\nCOMO USAR OS 25 ROTEIROS PRONTOS:\n- Dia 1-10: Dicas gerais de vendas (atração ampla)\n- Dia 11-25: Dicas específicas de CupomClic (atração qualificada)\n- Frequência: 1 vídeo por dia, no horário de pico\n- Duração: 30-60 segundos cada\nConsistência > Perfeição. Melhor postar todo dia do que postar perfeito uma vez por semana.\n\nGATILHOS MENTAIS NOS VÍDEOS:\n- Escassez: 'Só tenho 3 unidades'\n- Urgência: 'Válido até amanhã'\n- Prova Social: 'Já vendemos 47 unidades'\n- Autoridade: 'Método que já ajudou 100+ lojistas'\nUse pelo menos 1 gatilho em cada vídeo. Isso aumenta conversão em 40%.\n\nCOMO MENCIONAR O CUPOMCLIC NATURALMENTE:\n❌ 'Compre o CupomClic agora!'\n✅ 'O lojista que usa isso vende 24h por dia'\n❌ 'É a melhor plataforma!'\n✅ 'Funciona assim: escaneou, clicou, comprou'\nMostre o benefício, não o produto. O CupomClic é a solução, não o protagonista.\n\nSTORIES VS. REELS:\n- Reels: Atração (alcança pessoas novas)\n- Stories: Conversão (vende para quem já te segue)\n- Feed: Autoridade (mostra consistência)\n- Lives: Conexão (gera confiança profunda)\nUse Reels para atrair, Stories para vender.\n\nCOMO RESPONDER COMENTÁRIOS E CONVERTER:\n1. Responda rápido (nas primeiras 2 horas)\n2. Faça uma pergunta (ex: 'Você tem loja física?')\n3. Convide para o direct (ex: 'Te mando o passo a passo no direct')\nComentário é lead quente. Não deixe esfriar.\n\nMÉTRICAS QUE IMPORTAM:\n- Taxa de engajamento: (likes + comentários) / views\n- Leads gerados: Quantos comentaram 'QUERO'?\n- Conversão em direct: Quantos foram pro direct?\n- Vendas fechadas: Quantos compraram a mentoria?\n1.000 views com 10 leads > 10.000 views com 0 leads.\n\nINTEGRAÇÃO INSTAGRAM → WHATSAPP:\n1. Instagram: Reels atrai → Story educa → Link leva ao WhatsApp\n2. WhatsApp: Catálogo apresenta → Status aquece → CupomClic converte\n3. Resultado: Cliente vem pelo Instagram, compra pelo WhatsApp\n\nPLANO DE AÇÃO: 25 DIAS DE CONTEÚDO:\n- Semana 1: Poste 1 vídeo por dia (roteiros 1-7)\n- Semana 2: Poste 1 vídeo por dia (roteiros 8-14)\n- Semana 3: Poste 1 vídeo por dia (roteiros 15-21)\n- Semana 4: Poste 1 vídeo por dia (roteiros 22-25) + análise de resultados\nEm 25 dias, você terá 25 vídeos no ar construindo sua autoridade.",
+    "objetivos": [
+      "Criar conteúdo consistente no Instagram para atrair lojistas",
+      "Usar os 25 roteiros prontos para construir autoridade em 25 dias",
+      "Aplicar gatilhos mentais nos vídeos para aumentar conversão",
+      "Mencionar o CupomClic de forma natural e estratégica",
+      "Integrar Instagram e WhatsApp no fluxo de vendas"
+    ],
+    "recursos": [
+      { "nome": "25 Roteiros de Vídeo Prontos para Embaixadores", "tipo": "PDF", "url": "/recursos/roteiros-embaixador" },
+      { "nome": "Guia: Stories que Convertem (Fórmula de 5 Passos)", "tipo": "PDF", "url": "/recursos/stories-que-convertem" },
+      { "nome": "Template: Catálogo Perfeito no WhatsApp", "tipo": "PDF", "url": "/recursos/catalogo-whatsapp" }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Quais são os 3 pilares do conteúdo que atrai lojistas?",
+        "opcoes": [
+          "Views, likes e compartilhamentos",
+          "Educação, Autoridade e Prova Social",
+          "Reels, Stories e Feed"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual é a frequência ideal de postagem para construir autoridade?",
+        "opcoes": [
+          "1 vídeo perfeito por semana",
+          "1 vídeo por dia, mesmo que simples",
+          "3 vídeos por dia"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Como mencionar o CupomClic nos vídeos sem parecer vendedor?",
+        "opcoes": [
+          "Dizer 'Compre o CupomClic agora!'",
+          "Mostrar o benefício: 'O lojista que usa isso vende 24h por dia'",
+          "Não mencionar o CupomClic"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual métrica é mais importante que views?",
+        "opcoes": [
+          "Número de seguidores",
+          "Leads gerados (comentários 'QUERO')",
+          "Número de likes"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual é o fluxo perfeito de vendas Instagram → WhatsApp?",
+        "opcoes": [
+          "Instagram vende direto, WhatsApp não é necessário",
+          "Reels atrai → Story educa → WhatsApp converte com CupomClic",
+          "WhatsApp atrai, Instagram vende"
+        ],
+        "respostaCorreta": 1
+      }
+    ]
+  },
+  {
     "id": "dia-6",
     "titulo": "Tráfego e Explosão",
     "subtitulo": "Como Lotar a Sala e Atrair Lojistas Qualificados",
@@ -343,7 +358,7 @@
       }
     ]
   },
-    {
+  {
     "id": "dia-7",
     "titulo": "Vendas B2C e Collabs",
     "subtitulo": "Ativando sua Audiência para Gerar Caixa Real",
@@ -351,19 +366,19 @@
     "icone": "🤝",
     "videoUrl": "",
     "descricao": "Como o Embaixador Tokto usa sua própria audiência para gerar vendas reais B2C para os lojistas, criando collabs poderosas que servem como prova social definitiva e abrem portas para mentorias e parcerias.",
-    "conteudo": "O PODER DA SUA AUDIÊNCIA B2C:\nVocê não apenas ensina o lojista a vender. Você usa sua audiência para vender POR ELE. Isso cria cases de sucesso inquestionáveis e facilita absurdamente a venda da sua mentoria.\n\nA LÓGICA DA COLLAB PERFEITA:\nEmbaixador traz audiência qualificada + Lojista oferece desconto exclusivo (CupomClic) = Venda garantida e exposição mútua. É uma equação que ninguém recusa.\n\nCOMO NEGOCIAR COM LOJISTAS:\nScript: 'Eu tenho X mil seguidores locais. Vamos criar um CupomClic exclusivo de 20% só para minha audiência neste fim de semana? Eu divulgo, você vende, nós dois ganhamos.'\n\nO CONTEÚDO QUE CONVERTE SEGUIDOR EM CLIENTE:\nVídeos de 'Vem comigo comprar', unboxing na loja, mostrando a negociação do desconto em tempo real. Humaniza a marca e gera urgência.\n\nO 'DIA DO EMBAIXADOR' NA LOJA:\nEstrutura de uma ação presencial: Live dentro da loja + QR Code gigante no balcão + oferta relâmpago válida apenas por 2 horas para quem está ao vivo.\n\nRASTREANDO O SUCESSO (A PROVA REAL):\nUse o relatório do CupomClic para mostrar ao lojista no dia seguinte: 'Trouxe 47 clientes novos e R$ 3.800 em vendas. Aqui está o comprovante.'\n\nMONETIZAÇÃO PARA O EMBAIXADOR:\nModelos: Valor fixo pela ação (publi), % de comissão sobre as vendas geradas pelo CupomClic específico, ou permuta estratégica de alto valor.\n\nSTORIES DE PROVA SOCIAL EM TEMPO REAL:\nFilmar a fila na loja, mostrar as notificações de venda caindo no celular do dono, repostar clientes usando o cupom. Isso valida a ação para futuros parceiros.\n\nEXPANDINDO PARA OUTRAS CIDADES:\nDocumente esse processo para treinar novos embaixadores locais, criando uma rede de vendas Tokto em todo o Brasil.\n\nPLANO DE AÇÃO: SUA PRIMEIRA COLLAB EM 7 DIAS:\nDia 1: Listar 5 lojistas. Dia 2: Abordagem. Dia 3: Criação do CupomClic. Dia 4-6: Divulgação. Dia 7: Ação e medição de resultados.",
+    "conteudo": "O PODER DA SUA AUDIÊNCIA B2C:\nVocê não apenas ensina o lojista a vender. Você usa sua audiência para vender POR ELE. Isso cria cases de sucesso inquestionáveis e facilita absurdamente a venda da sua mentoria.\n\nA LÓGICA DA COLLAB PERFEITA:\nEmbaixador traz audiência qualificada + Lojista oferece desconto exclusivo (CupomClic) = Venda garantida e exposição mútua. É uma equação que ninguém recusa.\n\nCOMO NEGOCIAR COM LOJISTAS:\nScript: 'Eu tenho X mil seguidores locais. Vamos criar um CupomClic exclusivo de 20% só para minha audiência neste fim de semana? Eu divulgo, você vende, nós dois ganhamos.'\n\nO CONTEÚDO QUE CONVERTE SEGUIDOR EM CLIENTE:\nVídeos de 'Vem comigo comprar', unboxing na loja, mostrando a negociação do desconto em tempo real. Humaniza a marca e gera urgência.\n\nA COLLAB DIGITAL (100% REMOTA):\nO lojista envia o produto (ou banco de imagens) → Você grava no seu espaço → Posta com CTA para o CupomClic → Monitora os resultados pelo painel.\n\nRASTREANDO O SUCESSO (A PROVA REAL):\nUse o relatório do CupomClic para mostrar ao lojista no dia seguinte: 'Trouxe 47 clientes novos e R$ 3.800 em vendas. Aqui está o comprovante.'\n\nMONETIZAÇÃO PARA O EMBAIXADOR:\nModelos: Valor fixo pela ação (publi), % de comissão sobre as vendas geradas pelo CupomClic específico, ou permuta estratégica de alto valor.\n\nSTORIES DE PROVA SOCIAL EM TEMPO REAL:\nMostrar as notificações de venda caindo no painel, repostar clientes usando o cupom. Isso valida a ação para futuros parceiros.\n\nEXPANDINDO PARA OUTRAS CIDADES:\nDocumente esse processo para treinar novos embaixadores locais, criando uma rede de vendas Tokto em todo o Brasil.\n\nPLANO DE AÇÃO: SUA PRIMEIRA COLLAB EM 7 DIAS:\nDia 1: Listar 5 lojistas. Dia 2: Abordagem. Dia 3: Criação do CupomClic. Dia 4-6: Divulgação. Dia 7: Ação e medição de resultados.",
     "objetivos": [
       "Estruturar e negociar collabs vencedoras com lojistas locais",
       "Criar conteúdo B2C que converte seguidores em clientes na loja física",
-      "Executar o 'Dia do Embaixador' com ações presenciais e digitais integradas",
+      "Executar a Collab Digital com ações remotas e monitoramento de resultados",
       "Utilizar os dados do CupomClic como prova social para fechar novas parcerias",
       "Definir modelos de monetização (fixo, comissão ou permuta) para o embaixador"
     ],
     "recursos": [
-  { "nome": "Script de Negociação de Collab com Lojistas", "tipo": "PDF", "url": "/recursos/script-negociacao-collab" },
-  { "nome": "Roteiro de Vídeo de Divulgação B2C (Para seus Seguidores)", "tipo": "PDF", "url": "/recursos/roteiro-video-divulgacao-b2c" },
-  { "nome": "Checklist: Executando uma Collab Digital de Sucesso", "tipo": "PDF", "url": "/recursos/checklist-collab-digital" }
-   ],
+      { "nome": "Script de Negociação de Collab com Lojistas", "tipo": "PDF", "url": "/recursos/script-negociacao-collab" },
+      { "nome": "Roteiro de Vídeo de Divulgação B2C (Para seus Seguidores)", "tipo": "PDF", "url": "/recursos/roteiro-video-divulgacao-b2c" },
+      { "nome": "Checklist: Executando uma Collab Digital de Sucesso", "tipo": "PDF", "url": "/recursos/checklist-collab-digital" }
+    ],
     "quiz": [
       {
         "pergunta": "Qual é o principal argumento para convencer um lojista a fazer uma collab?",
@@ -393,11 +408,11 @@
         "respostaCorreta": 1
       },
       {
-        "pergunta": "O que é o 'Dia do Embaixador' na loja?",
+        "pergunta": "O que é a Collab Digital no contexto do Embaixador?",
         "opcoes": [
-          "Um dia para folgar e não postar",
-          "Uma ação presencial com live na loja, QR Codes visíveis e oferta relâmpago exclusiva",
-          "Apenas tirar fotos para o feed sem interagir com clientes"
+          "Um evento presencial na loja do lojista",
+          "Uma parceria remota onde o influencer grava conteúdo no seu espaço e direciona para o CupomClic",
+          "Apenas postar fotos do produto sem estratégia"
         ],
         "respostaCorreta": 1
       },
@@ -408,8 +423,9 @@
           "Para mostrar ao lojista a prova real de vendas e usar como case para fechar novos parceiros",
           "Para esconder os resultados reais"
         ],
-              "respostaCorreta": 1
-    }
+        "respostaCorreta": 1
+      }
+    ]
   },
   {
     "id": "conclusao",
@@ -429,8 +445,5 @@
       { "nome": "Checklist: Seus Primeiros 7 Dias como Embaixador", "tipo": "PDF", "url": "/recursos/checklist-primeiros-7-dias" }
     ],
     "quiz": []
-  }
-      }
-    ]
   }
 ]
