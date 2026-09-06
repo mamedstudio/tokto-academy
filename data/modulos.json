@@ -409,6 +409,26 @@
           "Para esconder os resultados reais"
         ],
         "respostaCorreta": 1
+          ,
+  {
+    "id": "conclusao",
+    "titulo": "Próximos Passos e Certificação",
+    "subtitulo": "Sua jornada como Embaixador Tokto começa agora",
+    "duracao": "30 min",
+    "icone": "🏆",
+    "videoUrl": "",
+    "descricao": "Parabéns por concluir a Imersão! Agora é hora de aplicar o método, conquistar seus primeiros 3 lojistas e escalar seus resultados com o CupomClic.",
+    "conteudo": "PARABÉNS, EMBAIXADOR!\n\nVocê concluiu os 7 dias da Imersão Tokto Academy. Agora você tem em mãos:\n\n1. O conhecimento profundo do CupomClic e Live Commerce.\n2. A capacidade de criar conteúdo que atrai lojistas (25 roteiros prontos).\n3. A estratégia para lotar suas lives e captar leads qualificados.\n4. O método para fechar Collabs Digitais e gerar prova social real.\n\nSEU DESAFIO PARA OS PRÓXIMOS 7 DIAS:\n- Dia 1: Escolha 3 lojistas da sua cidade que se encaixam no perfil ideal.\n- Dia 2: Use o 'Script de Negociação' para abordá-los no WhatsApp ou Direct.\n- Dia 3: Configure o primeiro CupomClic com o lojista que topar.\n- Dia 4 a 6: Use os 'Roteiros B2C' para divulgar a collab para sua audiência.\n- Dia 7: Meça os resultados no painel e feche o contrato de mentoria ou renovação.\n\nLembre-se: O lojista não compra 'tecnologia'. Ele compra a certeza de que você vai trazer clientes e vendas para a loja dele. Use os dados do CupomClic como sua maior arma de persuasão.\n\nEstamos juntos nessa. Vamos vender!",
+    "objetivos": [
+      "Definir os 3 primeiros lojistas para abordar",
+      "Executar a primeira Collab Digital em 7 dias",
+      "Usar os dados de vendas como prova para fechar parcerias de longo prazo"
+    ],
+    "recursos": [
+      { "nome": "Checklist: Seus Primeiros 7 Dias como Embaixador", "tipo": "PDF", "url": "/recursos/checklist-primeiros-7-dias" }
+    ],
+    "quiz": []
+  }
       }
     ]
   }
