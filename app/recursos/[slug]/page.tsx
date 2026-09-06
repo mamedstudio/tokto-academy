@@ -29,6 +29,9 @@ export default async function RecursoPage({ params }: { params: Promise<{ slug: 
     "stories-que-convertem": "stories-que-convertem.md",
     "catalogo-whatsapp": "catalogo-whatsapp.md",
     "roteiros-embaixador": "roteiros-embaixador.md",
+    "funil-embaixador": "funil-embaixador.md",
+    "campanha-meta-ads-basica": "campanha-meta-ads-basica.md",
+    "cronograma-lancamento-7-dias": "cronograma-lancamento-7-dias.md",
   };;
 
   const nomeArquivo = arquivoMap[slug];
