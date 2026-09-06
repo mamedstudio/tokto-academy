@@ -1,6 +1,6 @@
 # 25 Roteiros de Vídeo para o Embaixador Tokto
 
-Roteiros prontos para o Glauber (e outros embaixadores) postarem no Instagram e atraírem lojistas com dicas valiosas de vendas, sempre mencionando o CupomClic como solução complementar.
+Roteiros prontos para os embaixadores postarem no Instagram e atraírem lojistas com dicas valiosas de vendas, sempre mencionando o CupomClic como solução complementar.
 
 ---
 
