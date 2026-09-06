@@ -48,6 +48,9 @@ export default function Home() {
                     {modulo.icone || index + 1}
                   </div>
                   <div className="flex-1">
+                    <p className="text-xs font-semibold text-[#FF6B00] uppercase tracking-wider mb-1">
+                      Módulo {index + 1}
+                    </p>
                     <h3 className="text-xl font-bold mb-2 group-hover:text-[#FF6B00] transition-colors">
                       {modulo.titulo}
                     </h3>
