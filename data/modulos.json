@@ -274,17 +274,74 @@
     }
   ]
 },
-  {
+    {
     "id": "dia-6",
     "titulo": "Tráfego e Explosão",
-    "subtitulo": "Como Lotar a Sala da Live",
+    "subtitulo": "Como Lotar a Sala e Atrair Lojistas Qualificados",
     "duracao": "2 horas",
     "icone": "🚀",
     "videoUrl": "",
-    "descricao": "Estratégias orgânicas e pagas para garantir espectadores na sua live de vendas.",
-    "conteudo": "Aprenda a criar buzz, usar stories estratégicos e tráfego pago básico para encher sua sala.",
-    "objetivos": ["Criar cronograma de 7 dias", "Produzir teasers", "Entender Meta Ads para lives"],
-    "recursos": [{ "nome": "Calendário Editorial de Divulgação", "tipo": "PDF", "url": "/recursos/calendario-divulgacao" }]
+    "descricao": "Domine a arte de atrair lojistas usando tráfego orgânico, pago e estratégias de lançamento para encher sua agenda de mentorias e onboardings da Tokto.",
+    "conteudo": "TRÁFEGO NÃO É GASTO, É INVESTIMENTO:\nMudar a mentalidade: cada real investido em atrair o lojista certo retorna em comissões, mentorias e cases de sucesso.\n\nO FUNIL DO EMBAIXADOR TOKTO:\n1. Topo: Reels e Posts Educativos (Atração)\n2. Meio: Isca Digital (Checklist ou Aula Gratuita) em troca do WhatsApp\n3. Fundo: Conversão no Direct/WhatsApp para Mentoria ou Setup Tokto\n\nTRÁFEGO ORGÂNICO DE GUERRILHA:\n- Participe ativamente de grupos de WhatsApp de lojistas da sua cidade.\n- Faça collabs com perfis de comércio local.\n- Marque associações comerciais e CDLs nos seus conteúdos.\n\nTRÁFEGO PAGO DESCOMPLICADO:\n- Botão 'Turbinar' feito do jeito certo: público personalizado (raio de X km da sua cidade) + interesse em 'pequenas empresas' ou 'varejo'.\n- Campanha de 'Enviar Mensagem' no Meta Ads: o objetivo é fazer o lojista chamar no seu Direct ou WhatsApp.\n\nA ESTRATÉGIA DOS 7 DIAS (LANÇAMENTO):\nNão anuncie uma live do nada. Crie antecipação. Teaser → Problema → Solução → Prova Social → Abertura.\n\nISCAS DIGITAIS QUE CONVERTEM:\nOfereça algo de alto valor e baixa complexidade: 'Checklist da Live Perfeita' ou '5 Roteiros de Vendas'. O lojista deixa o contato para receber.\n\nO 'EFEITO MANADA' NA LIVE:\nPeça para 3 amigos entrarem nos primeiros 2 minutos e comentarem. Salas vazias espantam; salas com movimento atraem e retêm.\n\nRECUPERAÇÃO DE LEADS:\nO lojista se inscreveu na live mas não foi? Mande no dia seguinte: 'Vi que não conseguiu participar. Separei o replay e um cupom exclusivo de mentoria para você. Quer que eu te envie?'\n\nPARCERIAS ESTRATÉGICAS:\nUna forças com outros influenciadores locais ou contadores. Eles têm a confiança dos lojistas; você tem a solução de vendas. Divida a audiência, multiplique os resultados.\n\nPLANO DE AÇÃO:\nUse o checklist de 7 dias para lotar sua próxima live ou atrair 10 novos lojistas qualificados ainda esta semana.",
+    "objetivos": [
+      "Estruturar um funil de atração de lojistas (do Reels ao Direct)",
+      "Configurar campanhas básicas de tráfego pago no Meta Ads",
+      "Aplicar a estratégia de 7 dias para lotar lives e eventos",
+      "Criar iscas digitais eficazes para capturar contatos",
+      "Executar sequências de recuperação de leads que não compareceram"
+    ],
+    "recursos": [
+      { "nome": "O Funil do Embaixador Tokto (Passo a Passo)", "tipo": "PDF", "url": "/recursos/funil-embaixador" },
+      { "nome": "Guia: Campanha de Mensagem no Meta Ads", "tipo": "PDF", "url": "/recursos/campanha-meta-ads-basica" },
+      { "nome": "Cronograma de Lançamento: 7 Dias para Lotar a Live", "tipo": "PDF", "url": "/recursos/cronograma-lancamento-7-dias" }
+    ],
+    "quiz": [
+      {
+        "pergunta": "Qual é a sequência correta do Funil do Embaixador Tokto?",
+        "opcoes": [
+          "Venda direta → Reels → Pós-venda",
+          "Reels (Atração) → Isca Digital (Captura) → Direct/WhatsApp (Conversão)",
+          "Tráfego pago → Live → Esquecer o lead"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual é o objetivo principal de uma campanha de 'Enviar Mensagem' no Meta Ads?",
+        "opcoes": [
+          "Apenas ganhar curtidas no post",
+          "Fazer o lojista iniciar uma conversa no Direct ou WhatsApp",
+          "Aumentar o número de seguidores sem critério"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "O que é uma 'Isca Digital' no contexto do Embaixador?",
+        "opcoes": [
+          "Um produto físico enviado pelo correio",
+          "Um conteúdo gratuito de valor (ex: checklist) em troca do contato do lojista",
+          "Um link de afiliado da Shopee"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Como aplicar o 'Efeito Manada' no início de uma live?",
+        "opcoes": [
+          "Começar a live sem avisar ninguém",
+          "Pedir para amigos entrarem e comentarem nos primeiros minutos para gerar movimento",
+          "Bloquear comentários para parecer exclusivo"
+        ],
+        "respostaCorreta": 1
+      },
+      {
+        "pergunta": "Qual a melhor ação para um lead que se inscreveu na live mas não apareceu?",
+        "opcoes": [
+          "Ignorar e partir para o próximo",
+          "Enviar uma mensagem no dia seguinte oferecendo o replay e uma nova oportunidade",
+          "Cobrar multa por não comparecimento"
+        ],
+        "respostaCorreta": 1
+      }
+    ]
   },
   {
     "id": "dia-7",
